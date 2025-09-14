@@ -33,5 +33,6 @@ nav:
     - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
+      - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
   - 'Русификация': translate.md
 
