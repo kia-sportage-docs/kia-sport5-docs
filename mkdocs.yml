@@ -5,6 +5,7 @@ theme:
   language: ru
   icon:
     annotation: material/arrow-right-circle
+    logo: https://cdn.kia.ru/site-data/favicon/favicon.ico
 markdown_extensions:
   - admonition
   - attr_list
