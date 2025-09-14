@@ -23,6 +23,7 @@ nav:
   - 'Известные проблемы' : issue.md
   - 'Эксплуатация':
     - 'Новая машина': expluatation/new_car.md
+    - 'Инструкции по эксплуатации': expluatation/manuals.md 
     - 'Аксессуары': expluatation/accessories.md
   - 'Доработки':
     - 'Обогрев руля': improvement/wheel-heating.md
@@ -31,6 +32,6 @@ nav:
     - 'Парт-номера': service/part-number.md
     - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
-      - 'Регулировка турбины': service/manuals/turbine.md
+      - 'Устранение проблем с турбиной': service/manuals/turbine.md
   - 'Русификация': translate.md
 
