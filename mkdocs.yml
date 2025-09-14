@@ -24,6 +24,8 @@ nav:
   - 'Эксплуатация':
     - 'Новая машина': expluatation/new_car.md
     - 'Аксессуары': expluatation/accessories.md
+  - 'Доработки':
+    - 'Обогрев руля': improvement/wheel-heating.md
   - 'ТО и ремонты':
     - 'График ТО': service/to.md
     - 'Парт-номера': service/part-number.md

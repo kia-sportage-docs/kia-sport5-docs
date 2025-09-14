@@ -8,6 +8,10 @@
 !!! info "Про ссылки и бренды"
     Информация в ссылках не является рекламой тех или иных площадок, ресурсов или компаний. Автор не получает вознаграждения за размещение ссылок и/или упоминания конкретных компаний на данном ресурсе
 
+??? info "Исходники ресурса"
+    Все исходники на [GitHub](https://github.com/kia-sportage-docs/kia-sport5-docs)
+    Правки и Pull Requests приветствуются
+
 ## Обзоры на авто
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRtgfU-eTrY?si=RuoddTHqm2YCF-pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
