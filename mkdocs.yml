@@ -5,7 +5,7 @@ theme:
   language: ru
   icon:
     annotation: material/arrow-right-circle
-    favicon: images/apple-touch-icon-152x152.png
+  favicon: images/apple-touch-icon-152x152.png
 markdown_extensions:
   - admonition
   - attr_list
