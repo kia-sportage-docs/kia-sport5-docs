@@ -1,0 +1,32 @@
+site_name: Документация по Kia Sportage 5 Turbo
+site_url: https://mydomain.org/
+theme:
+  name: material
+  language: ru
+  icon:
+    annotation: material/arrow-right-circle
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html  
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox
+
+nav:
+  - 'О ресурсе': index.md
+  - 'Выбор и сравнение': versions.md
+  - 'Известные проблемы' : issue.md
+  - 'Эксплуатация':
+    - 'Новая машина': expluatation\new_car.md
+    - 'Аксессуары': expluatation\accessories.md
+  - 'ТО и ремонты':
+    - 'График ТО': service\to.md
+    - 'Парт-номера': service\part-number.md
+    - 'Технические жидкости': service\oil.md
+    - 'Инструкции по ремонту и обслуживанию':
+      - 'Регулировка турбины': service\manuals\turbine.md
+  - 'Русификация': translate.md
