@@ -21,13 +21,13 @@ nav:
   - 'Выбор и сравнение': versions.md
   - 'Известные проблемы' : issue.md
   - 'Эксплуатация':
-    - 'Новая машина': expluatation\new_car.md
-    - 'Аксессуары': expluatation\accessories.md
+    - 'Новая машина': expluatation/new_car.md
+    - 'Аксессуары': expluatation/accessories.md
   - 'ТО и ремонты':
-    - 'График ТО': service\to.md
-    - 'Парт-номера': service\part-number.md
-    - 'Технические жидкости': service\oil.md
+    - 'График ТО': service/to.md
+    - 'Парт-номера': service/part-number.md
+    - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
-      - 'Регулировка турбины': service\manuals\turbine.md
+      - 'Регулировка турбины': service/manuals/turbine.md
   - 'Русификация': translate.md
 
