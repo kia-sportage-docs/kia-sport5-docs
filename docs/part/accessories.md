@@ -31,16 +31,6 @@
 |---|---|---|
 | NoName | B20  | [Aliexpress](https://aliexpress.ru/item/1005006533195225.html) |
 
-## Экстерьер
-### Накладки на низ двери
-| Производитель | Артикул   | Ссылки | Комментарий |
-|---|---|---| --- |
-| Kia/Hyundai |87721-R4000 ||
-| Kia/Hyundai |87722-R4000 ||
-| Kia/Hyundai |87731-R4000 ||
-| Kia/Hyundai |87732-R4000 ||
-| Китай | - | [Aliexpress](https://aliexpress.ru/item/1005007795959195.html)||
-
 
 ## Прочее
 
@@ -48,7 +38,7 @@
 | Производитель | Артикул   | Ссылки | Комментарий |
 |---|---|---| --- |
 | Mayton | *уточняется*  | | |
-| Китай | - | https://aliexpress.ru/item/1005005270062965.html| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36156/109038)
+| Китай | - | [Aliexpress](https://aliexpress.ru/item/1005005270062965.html)| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36156/109038)
 
 ### Номерные рамки
 
