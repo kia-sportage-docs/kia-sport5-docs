@@ -18,6 +18,7 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - search
 
 nav:
   - 'О ресурсе': index.md
@@ -43,5 +44,6 @@ nav:
     - 'Подвеска': part/suspension.md
     - 'Интерьер': part/interior.md
     - 'Экстерьер и кузовыне элементы' : part/exterior.md
+    - 'Электрика': part/electric.md
     - 'Прочее': part/other.md
     - 'Аксеcсуары': part/accessories.md

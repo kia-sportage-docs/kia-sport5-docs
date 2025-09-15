@@ -30,6 +30,7 @@
 | Производитель | Артикул   | Ссылки |
 |---|---|---|
 | NoName | B20  | [Aliexpress](https://aliexpress.ru/item/1005006533195225.html) |
+| Fukoku |FA17 | |
 
 
 ## Прочее
