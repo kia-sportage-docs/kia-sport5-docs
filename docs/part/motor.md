@@ -8,7 +8,6 @@
 |---|---| --- |
 | Kia/Hyundai | 18878-08115 ||
 | Kia/Hyundai | 18878-09115 ||
-| Denso | IXUH22FTT| не подтверждено |
 | NGK | SILZKR8E9G | была замена (см ниже) |
 | NGK | SILZKR8H9G | |
 
@@ -16,9 +15,6 @@
     Был бюллетень по замене SILZKR8E9G на SILZKR8H9G
     <center>![Image title](../images/photo_2025-09-15_12-25-28.jpg){ loading=lazy }</center>
 
-
-!!! warning "Denso"
-    Информация по свечам Denso IXUH22FTT не подтверждена. Приобретение на ваш риск!
 
 ## Катушка зажигания
 | Производитель | Артикул   |
