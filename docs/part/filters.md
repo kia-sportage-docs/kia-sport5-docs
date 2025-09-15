@@ -19,11 +19,12 @@
 
 ## Воздушный фильтр
 
-| Производитель | Артикул   | Ссылки |
-|---|---|---|
+| Производитель | Артикул   | Ссылки | 
+|---|---|---| 
 | Kia/Hyundai | 28113-R4200 | |
 | Kia/Hyundai | 28113-L4400 | |
-| MANN | C31041 | [Ozon](https://ozon.ru/t/WfhnjMy) | 
+| MANN | C31041 | [Ozon](https://ozon.ru/t/WfhnjMy) |
+
 
 ## Салонный фильтр
 
@@ -32,7 +33,7 @@
 | Kia/Hyundai | 97133-R4000 | | |
 | Kia/Hyundai | 97133-L1000 |[Ozon](https://ozon.ru/t/M44a7ZG) | |
 | RAF | RSTC012HY | [Ozon](https://ozon.ru/t/WNN3ecS) | угольный |
- 
+| LGN | FC-223A | | угольный<br>[Сравнение с оригиналом](https://t.me/Kia_Sportage_5_Turbo/36156/37679) | 
 ## Топливный фильтр
 
 | Производитель | Артикул   | Ссылки |
