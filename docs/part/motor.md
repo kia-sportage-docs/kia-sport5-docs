@@ -4,12 +4,18 @@
     Ссылки брались из сообщений в [Telegram-группе](https://t.me/Kia_Sportage_5_Turbo), поэтому приведены в информационных целях и не гарантируют оригинальность расходников и запчастей.
 
 ## Свечи
-| Производитель | Артикул   |
-|---|---|
-| Kia/Hyundai | 18878-08115 |
-| Kia/Hyundai | 18878-09115 |
-| Denso | IXUH22FTT|
-| NGK | SILZKR8E9G |
+| Производитель | Артикул | Комментарий |
+|---|---| --- |
+| Kia/Hyundai | 18878-08115 ||
+| Kia/Hyundai | 18878-09115 ||
+| Denso | IXUH22FTT| не подтверждено |
+| NGK | SILZKR8E9G | была замена (см ниже) |
+| NGK | SILZKR8H9G | |
+
+??? info "Замена NGK SILZKR8E9G на SILZKR8H9G"
+    Был бюллетень по замене SILZKR8E9G на SILZKR8H9G
+    <center>![Image title](../images/photo_2025-09-15_12-25-28.jpg){ loading=lazy }</center>
+
 
 !!! warning "Denso"
     Информация по свечам Denso IXUH22FTT не подтверждена. Приобретение на ваш риск!
