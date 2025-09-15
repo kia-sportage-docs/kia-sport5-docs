@@ -6,6 +6,8 @@ theme:
   icon:
     annotation: material/arrow-right-circle
   favicon: images/apple-touch-icon-152x152.png
+  features:
+    - navigation.indexes
 markdown_extensions:
   - admonition
   - attr_list
@@ -24,15 +26,22 @@ nav:
   - 'Эксплуатация':
     - 'Новая машина': expluatation/new_car.md
     - 'Инструкции по эксплуатации': expluatation/manuals.md 
-    - 'Аксессуары': expluatation/accessories.md
+    - 'Аксессуары': part/accessories.md
   - 'Доработки':
     - 'Обогрев руля': improvement/wheel-heating.md
   - 'ТО и ремонты':
     - 'График ТО': service/to.md
-    - 'Парт-номера': service/part-number.md
     - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
   - 'Русификация': translate.md
-
+  - 'Номера запчастей':
+    - part/index.md
+    - 'Фильтры': part/filters.md
+    - 'Мотор': part/motor.md
+    - 'Подвеска': part/suspension.md
+    - 'Интерьер': part/interior.md
+    - 'Экстерьер и кузовыне элементы' : part/exterior.md
+    - 'Прочее': part/other.md
+    - 'Аксеcсуары': part/accessories.md
