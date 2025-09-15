@@ -42,7 +42,7 @@
 
 | Производитель | Артикул   | Комментарий |
 |---|---|---|
-| Hayden | oc698 | [Пример 1](https://t.me/Kia_Sportage_5_Turbo/36156/110035) <br> [Пример 2](https://t.me/Kia_Sportage_5_Turbo/36161/112475) |
+| Hayden | OC-698 | [Пример 1](https://t.me/Kia_Sportage_5_Turbo/36156/110035) <br> [Пример 2](https://t.me/Kia_Sportage_5_Turbo/36161/112475) |
 
 ## Пробка заливная раздаточной коробки
 
