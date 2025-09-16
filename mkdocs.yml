@@ -45,6 +45,7 @@ nav:
     - part/index.md
     - 'Фильтры': part/filters.md
     - 'Мотор': part/motor.md
+    - 'Топливная система': part/fuel.md
     - 'Подвеска': part/suspension.md
     - 'Интерьер': part/interior.md
     - 'Экстерьер и кузовыне элементы' : part/exterior.md
