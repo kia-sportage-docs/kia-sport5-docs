@@ -38,6 +38,7 @@ nav:
         - service/manuals/electrical_circuits/index.md
         - 'Схема блока IBU': service/manuals/electrical_circuits/ibu.md
         - 'Схема блока ICU': service/manuals/electrical_circuits/icu.md
+      - 'Коды цвета кузова': service/manuals/colors.md
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
   - 'Русификация': translate.md
