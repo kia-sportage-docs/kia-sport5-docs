@@ -48,7 +48,15 @@
 | Mayton | *уточняется*  | | |
 | Китай | - | [Aliexpress](https://aliexpress.ru/item/1005005270062965.html)| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36156/109038)
 
+### Поводки дворников
+
+| Производитель | Артикул | Ссылки |
+|---|---|---|
+| Kia/Hyundai | 98311P-1000 (левый) ||
+| Kia/Hyundai | 98321P-1000 (правый) ||
+
 ### Номерные рамки
 
  - [Ozon 1](https://ozon.ru/t/baJ7nXE)
+ - [Ozon 2](https://ozon.ru/t/QoGQZ8S)
 
