@@ -1,11 +1,14 @@
 # Сравнение комплектаций
-
+## 2.0T
 ![Image title](./images/75bbec274cf915644ecbce077d74.png){ loading=lazy }
 
 ![Image title](./images/9776a9b243279afbd6d1db975bc8.png){ loading=lazy }
 
 ![Image title](./images/895f138f1ca8a2713712fd729a5e.png){ loading=lazy }
 
+## 1.5T
+
+![Image title](./images/G4FS_1_5Т.png){ loading=lazy }
 
 ## Источники данных:
 
