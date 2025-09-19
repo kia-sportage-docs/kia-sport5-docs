@@ -52,3 +52,6 @@
 
  - [Ozon 1](https://ozon.ru/t/baJ7nXE)
 
+### Держатель для телефона
+
+- [Aliexpress](https://sl.aliexpress.ru/p?key=LXPhV9R)
