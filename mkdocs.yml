@@ -19,6 +19,7 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - open-in-new-tab
 
 nav:
   - 'О ресурсе': index.md
@@ -30,6 +31,7 @@ nav:
     - 'Аксессуары': part/accessories.md
   - 'Доработки':
     - 'Обогрев руля': improvement/wheel-heating.md
+    - 'Шторка в багажник': improvement/trunk-curtain.md
   - 'ТО и ремонты':
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
@@ -38,9 +40,11 @@ nav:
         - service/manuals/electrical_circuits/index.md
         - 'Схема блока IBU': service/manuals/electrical_circuits/ibu.md
         - 'Схема блока ICU': service/manuals/electrical_circuits/icu.md
+        - 'Схема предохранителей': service/manuals/electrical_circuits/fuse.md
       - 'Коды цвета кузова': service/manuals/colors.md
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
+      - 'Параметры шин и дисков': service/manuals/wheels.md
   - 'Русификация': translate.md
   - 'Номера запчастей':
     - part/index.md
