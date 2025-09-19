@@ -57,3 +57,4 @@ nav:
     - 'Электрика': part/electric.md
     - 'Прочее': part/other.md
     - 'Аксеcсуары': part/accessories.md
+  - 'FAQ': faq.md
