@@ -16,9 +16,9 @@
 
 Схема подключения:
 
-GND - на любой болт (землю)
-VCC+ - Memory
-ACC - Module2
+* GND - на любой болт (землю)
+* VCC+ - Memory
+* ACC - Module2
 
 ![Image title](../images/video-connect.jpg)
 /// caption
