@@ -32,6 +32,7 @@ nav:
   - 'Доработки':
     - 'Обогрев руля': improvement/wheel-heating.md
     - 'Шторка в багажник': improvement/trunk-curtain.md
+    - 'Освещение в бардачке': improvement/light-in-glove.md
   - 'ТО и ремонты':
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
