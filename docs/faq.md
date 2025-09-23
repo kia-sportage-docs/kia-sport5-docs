@@ -26,3 +26,16 @@
     ![Images title](./images/motor_number_1.jpg)
 
     ![Images title](./images/motor_number_2jpg.jpg)
+
+## Где располагается VIN?
+
+??? question "Ответ"    
+    Ответ есть на странице 9-11 и 9-12 [руководства](./expluatation/manuals.md)
+    
+    Однако, есть информация, что в руководстве не правильно отражены все места VIN:
+
+    - не факт, что есть VIN под сиденьем пассажира;
+    - VIN-номер также может располагаться под капотом (под жабо)
+    
+    ![Images title](./images/vin-1.jpg)
+    ![Images title](./images/vin-2.jpg)
