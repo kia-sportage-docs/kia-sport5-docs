@@ -1,5 +1,4 @@
 # Устранение проблем в работе турбины (недодув/передув/потеря мощности)
-
 ## Демонстрация проблемы
 
 Видео: [ссылка на видео в группе ТГ](https://t.me/Kia_Sportage_5_Turbo/1/120742)
@@ -40,7 +39,6 @@
     ![Image title](../../images/turbo_3.jpg){ loading=lazy }
     ![Image title](../../images/turbo_4.jpg){ loading=lazy }
     </center>
-
 
 ??? note "Еще скриншоты процесса из официальной документации"
     <center>

@@ -14,5 +14,3 @@
 
 - [Китай](https://price.pcauto.com.cn/sg28996/config.html#ad=20417)
 - [На Русском (могут быть неточности)](https://aurum-motors.ru/kia-sportage-komplektacii-2023/)
-
-

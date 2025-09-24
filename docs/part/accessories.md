@@ -29,7 +29,6 @@
 
 - [Ozon](https://ozon.ru/t/dQWSUfO)
 
-
 ## Защиты
 ### Защита двигателя и АКПП
 
@@ -52,6 +51,7 @@
 |---|---|---| --- |
 | Mayton | *уточняется*  | | |
 | Китай | - | [Aliexpress](https://aliexpress.ru/item/1005005270062965.html)| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36156/109038)
+| NoName | - | [Ozon](https://ozon.ru/t/rdw0K5w) | [Пример установки](none) |
 
 ### Поводки дворников
 
@@ -68,4 +68,3 @@
 ### Держатель для телефона
 
 - [Aliexpress](https://sl.aliexpress.ru/p?key=LXPhV9R)
-
