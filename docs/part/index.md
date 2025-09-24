@@ -6,6 +6,7 @@
 - [Подвеска](./suspension.md)
 - [Интерьер](./interior.md)
 - [Экстерьер и кузовные элементы](./exterior.md)
+- [Электрика](./electric.md)
 - [Прочее](./other.md)
 - [Аксессуары](./accessories.md)
 

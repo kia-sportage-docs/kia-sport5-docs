@@ -17,3 +17,17 @@
 
 ??? info "Схема для проводки Type-C (84624-R4000 и 96125-R4000)"
     ![Image title](../images/photo_2025-09-15_10-34-50.jpg){ loading=lazy }
+
+## Лампочка в багажник
+
+??? info "Типоразмер T11 C5W 31mm 1шт"
+
+- [Ozon](https://ozon.ru/t/1Gvbu80)
+- [Aliexpress](https://sl.aliexpress.ru/p?key=aDyhVEr)
+
+## Лампочки под задний номер
+
+??? info "Типоразмер T10 W5W 2 шт"
+
+- [Ozon](https://ozon.ru/t/quCQgR7)
+- [Aliexpress](https://sl.aliexpress.ru/p?key=wnyhVYb)    
