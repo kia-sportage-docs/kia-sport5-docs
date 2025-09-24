@@ -43,6 +43,7 @@ nav:
         - 'Схема блока IBU': service/manuals/electrical_circuits/ibu.md
         - 'Схема блока ICU': service/manuals/electrical_circuits/icu.md
         - 'Схема предохранителей': service/manuals/electrical_circuits/fuse.md
+      - 'Адаптация педали газа': service/manuals/gas-adaptation.md
       - 'Коды цвета кузова': service/manuals/colors.md
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
