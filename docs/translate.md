@@ -24,6 +24,7 @@
 | CN7CPE.CHN.S5W_M.xxx.xxx.xxxxxx (Elantra) |
 | CN7NPE.CHN.S5W_M.xxx.xxx.xxxxxx (Elantra N) |
 
+[Руководство пользователя](https://drive.google.com/file/d/1JCpb9LhhDvWlNjpyipVEmRzQ9X4SYfVc/view?usp=sharing)
 
 [Пост на Drive2](https://www.drive2.ru/o/b/708309789733573825/)
 
