@@ -16,7 +16,7 @@
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRtgfU-eTrY?si=RuoddTHqm2YCF-pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-Отличия не указанные в видео:
+Отличия, не указанные в видео:
 
 - Отсутствует датчик дождя (автоматическая работа дворников)
 - Отсутствует подогрев руля (можно исправить: установить самому спираль, либо [так](improvement/wheel-heating.md))
@@ -30,6 +30,7 @@
 - Отсутствует крепление шторки багажника (как и сама шторка)
 - Отсутствуют брызговики
 - Датчики давления в шинах (52940-O3100) отличаются от Казахских (52940-L1100 **НЕ подходят**)
+- По габаритам китайский длиннее на 1см и выше на 2см. По клиренсу китайский 156 против 180 у корейского.
 
 
 

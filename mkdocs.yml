@@ -55,8 +55,8 @@ nav:
     - 'Топливная система': part/fuel.md
     - 'Подвеска': part/suspension.md
     - 'Интерьер': part/interior.md
-    - 'Экстерьер и кузовыне элементы' : part/exterior.md
+    - 'Экстерьер и кузовные элементы' : part/exterior.md
     - 'Электрика': part/electric.md
     - 'Прочее': part/other.md
-    - 'Аксеcсуары': part/accessories.md
+    - 'Аксессуары': part/accessories.md
   - 'FAQ': faq.md

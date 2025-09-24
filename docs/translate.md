@@ -7,7 +7,7 @@
 
 Занимаются русификацией ШГУ *без снятия*. Стоимость 21 тысяча рублей. Можно получить [скидку](https://t.me/Kia_Sportage_5_Turbo/96622/119131).
 
-| Список поддержимаемых прошивок (KIA): |
+| Список поддерживаемых прошивок (KIA): |
 |---|
 | NQ5C.CHN.S5W_M.xxx.xxx.xxxxxx (Sportage) |
 | NPFL.CHN.S5W_M.xxx.xxx.xxxxxx (Sportage R) |
@@ -15,7 +15,7 @@
 | SP2CPE.CHN.S5W_M.xxx.xxx.xxxxxx (KX3 Seltos) |
 | BDCPE.CHN.S5W_M.xxx.xxx.xxxxxx (K3) |
 
-| Список поддержимаемых прошивок (HYUNDAI): |
+| Список поддерживаемых прошивок (HYUNDAI): |
 |---|
 | LX2PE.CHN.S5W_M.xxx.xxx.xxxxxx (Palisade) |
 | NU2.CHN.S5W_M.xxx.xxx.xxxxxx (Mufasa) |
@@ -36,7 +36,7 @@
 
 Занимаются русификацией ШГУ *со снятием*. Стоимость 28 тысяч рублей.
 
-| Список поддержимаемых прошивок: |
+| Список поддерживаемых прошивок: |
 |---|
 | DL3N.CHN.SOP.T.V1.0.xxxxxx |
 | DL3N.CHN.SOP.L.V1.0.xxxxxx |
