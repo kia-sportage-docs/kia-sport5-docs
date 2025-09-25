@@ -68,3 +68,7 @@
 ### Держатель для телефона
 
 - [Aliexpress](https://sl.aliexpress.ru/p?key=LXPhV9R)
+
+## Обманка старт/стоп
+
+[Aliexpress](https://sl.aliexpress.ru/p?key=VcrqVPr)
