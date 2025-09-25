@@ -33,6 +33,7 @@ nav:
     - 'Обогрев руля': improvement/wheel-heating.md
     - 'Шторка в багажник': improvement/trunk-curtain.md
     - 'Освещение в бардачке': improvement/light-in-glove.md
+    - 'Отключение функции старт/стоп': improvement/start-stop-off.md
     - 'Установка видеорегистратора': improvement/video-register.md
   - 'ТО и ремонты':
     - 'График ТО': service/to.md
