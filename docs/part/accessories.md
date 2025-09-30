@@ -10,8 +10,10 @@
 | Kia/Hyundai | KR4F14-AP825 | [ТГ](https://t.me/Kia_Sportage_5_Turbo/36159/117860)| |
 | Delform | EVS-0611 | [Ozon](https://ozon.ru/t/g2U420E) | Подходят от Tucson с доработкой: установить универсальное крепление и сделать вырез под рычаг лючка бензобака |
 
-### Органайзер в подлокотник
-- [Ozon](https://ozon.ru/t/LteZYjq)
+### Крепление для ковриков
+
+[WB](https://www.wildberries.ru/catalog/250658965/detail.aspx?targetUrl=SN)
+
 
 ### Коврик в багажник
 
@@ -24,6 +26,10 @@
 ### Сетка в багажник
 
 - [Сетка 60х90](https://ozon.ru/t/tkPaOAG)
+
+### Органайзер в подлокотник
+- [Ozon](https://ozon.ru/t/LteZYjq)
+
 
 ### Накладки на рейлинги передних сидений
 
@@ -70,3 +76,8 @@
 ## Обманка старт/стоп
 
 [Aliexpress](https://sl.aliexpress.ru/p?key=VcrqVPr)
+
+## Пленка для защиты элементов салона и экранов
+
+[Aliexpress](https://aliexpress.ru/item/1005008562646656.html)
+[Ozon](https://ozon.ru/t/l7W6k2H)
