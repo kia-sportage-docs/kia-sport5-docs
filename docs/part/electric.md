@@ -17,6 +17,22 @@
 ??? info "Схема для проводки Type-C (84624-R4000 и 96125-R4000)"
     ![Image title](../images/photo_2025-09-15_10-34-50.jpg){ loading=lazy }
 
+## Панель фар и открытия багажника
+
+| Производитель | Артикул   |
+|---|---|
+| Kia/Hyundai | 93700-R4100 |
+
+??? info "Фото"
+    ![Images title](../images/panel_2.webp)
+    ![Images title](../images/panel_1.webp)
+
+## Панель климата: 
+
+| Наименование | Артикул | Ссылка |
+| --- | --- | --- |
+|Панель с КПП и с подогревом и вентиляцией (Premium и Flagship) | 93300-R4100 | [Aliexpress](https://sl.aliexpress.ru/p?key=wTegVGx)
+|Панель с КПП без подогрева (Luxury)| 93300-R4000 |
 
 ## Обманка старт/стоп
 

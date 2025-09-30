@@ -21,3 +21,33 @@
 | Производитель | Артикул | Ссылки | Комментарий|
 |---|---|---| --- |
 | Kia/Hyundai | 142060-8250B | | защита двигателя и бампер |
+
+
+## Подарочный набор
+
+**Артикул** - KACF9-9AP688
+
+??? info "Фото"
+    ![Images title](../images/pod_nabor_1.webp)
+    ![Images title](../images/pod_nabor2.avif)
+    ![Images title](../images/pod_nabor3.avif)
+
+## Ароматизатор
+
+| Производитель | Артикул |
+|---|---|
+| Kia/Hyundai | KACF99-AP758 |
+| Kia/Hyundai | KACF99-AP830 |
+
+
+
+??? info "Фото KACF99-AP758"
+    ![Images title](../images/KACF99-AP758_1.avif)
+    ![Images title](../images/KACF99-AP758_2.avif)
+    ![Images title](../images/KACF99-AP758_3.avif)
+    ![Images title](../images/KACF99-AP758_4.avif)
+    ![Images title](../images/KACF99-AP758_5.avif)
+
+??? info "Фото KACF99-AP758"
+    ![Images title](../images/KACF99-AP830_1.avif)
+    ![Images title](../images/KACF99-AP830_2.avif)

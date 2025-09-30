@@ -39,3 +39,40 @@
 | --- | --- |
 | Левый | 87270-R4000 |
 | Правый| 87280-R4000 |
+
+## Пороги
+| Производитель | Артикул |
+| --- | --- |
+| Kia/Hyundai | KR4F37-AP835 |
+
+
+??? info "Фото"
+    [Images title](../images/KR4F37-AP835_1.avif)
+    [Images title](../images/KR4F37-AP835_2.avif)
+    [Images title](../images/KR4F37-AP835_3.avif)
+
+## Накладки на бампер
+| Производитель | Артикул |
+| --- | --- |
+| Kia/Hyundai | KR4F31-AP837 |
+| Kia/Hyundai| KR4F31-AP836 |
+
+??? info "Фото"
+    ![Images title](../images/KR4F31-AP837_1.avif)
+    ![Images title](../images/KR4F31-AP837_2.avif)
+    ![Images title](../images/KR4F31-AP837_3.avif)
+    ![Images title](../images/KR4F31-AP837_4.avif)
+    ![Images title](../images/KR4F31-AP837_5.avif)
+    ![Images title](../images/KR4F31-AP837_6.avif)
+
+## Подсветка задних габаритов
+| Производитель | Артикул |
+| --- | --- |
+| Kia/Hyundai | KR4F39-AP834 |
+
+??? info "Фото"
+    ![Images title](../images/KR4F39-AP834_1.avif)
+    ![Images title](../images/KR4F39-AP834_2.avif)
+    ![Images title](../images/KR4F39-AP834_3.avif)
+    ![Images title](../images/KR4F39-AP834_4.avif)
+    ![Images title](../images/KR4F39-AP834_5.avif)
