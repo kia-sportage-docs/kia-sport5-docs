@@ -101,6 +101,10 @@
 ## Термостат и система охлаждения
 ### 2.0T
 
+??? info "Схемы"
+    ![Images title](../images/cooling_1.jpg)
+    ![Images title](../images/cooling_2.jpg)
+
 | Наименование | Производитель | Артикул | 
 |--- |---|---|
 | Термостат| Kia/Hyundai | 25600-2JTA0 |
@@ -120,7 +124,5 @@
 | Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25624-2JTA0 |
 | Кольцо | Kia/Hyundai | 25457-2E802 |
 
-??? info "Схемы"
-    ![Images title](../images/cooling_1.jpg)
-    ![Images title](../images/cooling_2.jpg)
+
 
