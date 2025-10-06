@@ -61,4 +61,5 @@ nav:
     - 'Электрика': part/electric.md
     - 'Прочее': part/other.md
     - 'Аксессуары': part/accessories.md
+    - 'Официальный тюнинг и аксессуары': part/official_tuning.md
   - 'FAQ': faq.md
