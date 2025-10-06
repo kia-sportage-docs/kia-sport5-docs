@@ -19,7 +19,12 @@
  Артикул | Ссылки | Комментарий |
 |---|---|---|
 | R8650-P1000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8650P1000/) | **Информация о совместимости не подтверждена** |
-| KR4F37-AP835 |||
+| KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
+
+??? info "Пороги KR4F37-AP835"
+    ![images](../images/KR4F37-AP835_1.avif)
+    ![images](../images/KR4F37-AP835_2.avif)
+    ![images](../images/KR4F37-AP835_3.avif)
 
 ### Защитная пленка на ручки дверей
 
@@ -50,7 +55,7 @@
 | Коврик багажного отсека (ворс) | R8570P-1100WK | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100WK/) |
 | Коврик багажного отсека (резиновый) | R8570-P1100 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100/) |
 | Коврик на спинку заднего сидения | R8570P-1000R | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1000R/) |
-
+| Электропривод багажника| KR4F56-AP831 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.item.itemCnxh.23.6aca3da6ZFxnju&id=896423423175&categoryId=0)
 
 ## Диски, гайки, секретки
 ### Диски
