@@ -5,8 +5,6 @@
 
 !!! warning "Раздел в стадии наполнения"
     
-
-
 ## Экстерьер, кузовные элементы, защита, шумоизоляция
 ### Подкрылки с шумоизоляцией
 
@@ -21,6 +19,7 @@
 | Производитель | Артикул | Ссылки | Комментарий |
 |---|---|---|---|
 | Kia/Hyundai | R8650-P1000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8650P1000/) | **Информация о совместимости не подтверждена** |
+| Kia/Hyundai | KR4F37-AP835 |||
 
 ### Защитная пленка на ручки дверей
 
@@ -48,14 +47,29 @@
 | Коврик багажного отсека (резиновый) | Kia/Hyundai | R8570-P1100 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100/) |
 | Коврик на спинку заднего сидения | Kia/Hyundai | R8570P-1000R | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1000R/) |
 
-
 ## Диски, гайки, секретки
+### Диски
+| Размер | Производитель | Артикул | Ссылки | 
+|---|---|---|---|
+| 17" | Kia/Hyundai | 52910-P1110 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1110/) |
+| 18" | Kia/Hyundai | 52910-P1210 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1210/) |
+| 19" | Kia/Hyundai | 52910-P1310 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1310/) |
+| 19" (см.ниже) | Kia/Hyundai | 52910-R4200 |||
+| 19" (см.ниже) | Kia/Hyundai | 52910-R4260 |||
+| 19" (см.ниже) | Kia/Hyundai | 52910-R4300 |||
+| 19" (см.ниже) | Kia/Hyundai | 52910-L6930 |||
+| 19" (см.ниже)  | Kia/Hyundai | 52919-L6930 |||
+| Эмплема | Kia/Hyundai | 52960-Q2100 |||
+
+??? info "Изображение дисков"
+    <center>![Image title](../images/disks.jpg){ loading=lazy }</center>
+
+
 ### Гайки и секретки
 | Наименование | Производитель | Артикул | Ссылки | 
 |---|---|---|---|
 | Секретки | Kia/Hyundai | S9F40-AC000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/S9F40AC000/) |
 | Секретки | Kia/Hyundai | 66490-ADE50 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/66490ADE50/) |
-
 
 ## Прочее
 ### Наборы автомобилиста

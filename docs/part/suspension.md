@@ -68,14 +68,24 @@
     Датчик от Казахской версии (52940-L1100) **не подходит**!
 
 ## Диски
-| Производитель | Артикул |
-|---|---|
-| Kia/Hyundai | 52910-R4200 |
-| Kia/Hyundai | 52910-R4260 |
-| Kia/Hyundai | 52910-R4300 |
-| Kia/Hyundai | 52910-L6930 |
-| Kia/Hyundai | 52919-L6930 |
-| Kia/Hyundai | 52960-Q2100 |
+??? info "Характеристики"
+    Для 18 диаметра (идёт с завода) параметры: R18 7.5J 5X114.3 ET 51 dia 67.1
+    
+    Для 19 диаметра (идёт для максимальной комплектации 2.0T): R19 7.5J 5X114.3 ET 51 dia 67.1
+
+
+|Размер | Производитель | Артикул | Ссылки |
+|---|---|---| --- |
+| 19" | Kia/Hyundai | 52910-R4200 |
+| 19" | Kia/Hyundai | 52910-R4260 |
+| 19" | Kia/Hyundai | 52910-R4300 |
+| 19" | Kia/Hyundai | 52910-L6930 |
+| 19" | Kia/Hyundai | 52919-L6930 |
+| 19" | Kia/Hyundai | 52960-Q2100 |
+| 19" | Kia/Hyundai | 52910-P1310 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1310/) |
+| 18" | Kia/Hyundai | 52910-P1210 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1210/) |
+| 17" | Kia/Hyundai | 52910-P1110 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1110/) |
+
 
 ??? info "Изображение дисков"
     <center>![Image title](../images/disks.jpg){ loading=lazy }</center>
