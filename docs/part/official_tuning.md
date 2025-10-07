@@ -54,9 +54,10 @@
 | Накидка на задний бампер | R8570A-C000K | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570AC000K/) |
 | Коврик багажного отсека (ворс) | R8570P-1100WK | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100WK/) |
 | Коврик багажного отсека (резиновый) | R8570-P1100 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100/) |
+|Коврик резиновый | KCKF14-AP828 ||
 | Коврик на спинку заднего сидения | R8570P-1000R | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1000R/) |
 | Электропривод багажника| KR4F56-AP831 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.item.itemCnxh.23.6aca3da6ZFxnju&id=896423423175&categoryId=0)
-|Коврик резиновый | KCKF14-AP828 ||
+
 
 
 ## Диски, гайки, секретки
