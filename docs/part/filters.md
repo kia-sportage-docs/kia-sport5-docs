@@ -41,7 +41,7 @@
 | Kia/Hyundai | 97133-L1000 |[Ozon](https://ozon.ru/t/M44a7ZG) | |
 | RAF | RSTC012HY | [Ozon](https://ozon.ru/t/WNN3ecS) | угольный |
 | LGN | FC-223A | | антибактериальный<br>[Сравнение с оригиналом](https://t.me/Kia_Sportage_5_Turbo/36156/37679) | 
-
+| SIBTEK | AC0311C |[Ozon](https://ozon.ru/t/DyrxXyr) ||
 ## Топливный фильтр
 
 | Производитель | Артикул   | Ссылки |
