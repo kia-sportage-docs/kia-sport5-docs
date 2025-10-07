@@ -80,7 +80,7 @@
 
 ## Обманка старт/стоп
 
-[Aliexpress](https://sl.aliexpress.ru/p?key=VcrqVPr)
+[Aliexpress](https://sl.aliexpress.ru/p?key=VcrqVPr) - нужна версия 2022-2024, не ошибитесь при заказе!
 
 ## Пленка для защиты элементов салона и экранов
 
