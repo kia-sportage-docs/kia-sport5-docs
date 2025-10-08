@@ -30,7 +30,7 @@
 
 | Артикул | Ссылки | 
 |---|---|
-| 66272-ADE00 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8460P1004/) | 
+| 66272-ADE00 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/66272ADE00/) | 
 
 ### Дефлекторы на двери
 | Артикул | Ссылки | Комментарий |
