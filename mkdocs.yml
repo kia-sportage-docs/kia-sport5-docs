@@ -66,7 +66,7 @@ nav:
     - car_alarm/index.md
     - 'Pandora':
       - car_alarm/pandora/index.md
-      - 'Общая информация': car_alarm\pandora\first_info.md
+      - 'Общая информация': car_alarm/pandora/first_info.md
       - 'Интеграция с умным домом Home Assistant': car_alarm/pandora/pandora_smart_home.md
       - 'Включение подогрева сидений при дистанционном запуске': car_alarm/pandora/heat_autosart.md
     - 'Starline': 
