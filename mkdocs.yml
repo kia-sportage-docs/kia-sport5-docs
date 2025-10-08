@@ -62,4 +62,14 @@ nav:
     - 'Прочее': part/other.md
     - 'Аксессуары': part/accessories.md
     - 'Официальный тюнинг и аксессуары': part/official_tuning.md
+  - 'Сигнализации':
+    - car_alarm/index.md
+    - 'Pandora':
+      - car_alarm/pandora/index.md
+      - 'Общая информация': car_alarm\pandora\first_info.md
+      - 'Интеграция с умным домом Home Assistant': car_alarm/pandora/pandora_smart_home.md
+      - 'Включение подогрева сидений при дистанционном запуске': car_alarm/pandora/heat_autosart.md
+    - 'Starline': 
+      - car_alarm/starline/index.md
+      - 'Общая информация': car_alarm/starline/first_info.md
   - 'FAQ': faq.md
