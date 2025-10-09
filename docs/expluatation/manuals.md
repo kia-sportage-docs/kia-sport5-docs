@@ -11,3 +11,7 @@
 - [Краткое справочное руководство](https://cdn.kia.ru/aftersale-data/short_user_manual/short_user_manual_GYWD20222022.pdf)
 - [Полное руководство пользователя](https://cdn.kia.ru/aftersale-data/full_user_manual/full_user_manual_GYWD20222022.pdf)
 - [Сетка технического обслуживания](https://cdn.kia.ru/aftersale-data/pdf/maintenance_grid/kia-maintenance_schedule-9e9a89a1bd6668d4d2edfe0421fbfaa7.pdf)
+
+## Описание кнопок в салоне
+
+[Подробная статья](buttons.md)
