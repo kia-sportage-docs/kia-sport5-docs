@@ -85,4 +85,6 @@
 ## Где заказать оригинальные запчасти из Китая / Кореи?
 
 ??? question "Ответ"
-    Вам к [Евгению](https://t.me/evgeen55)    
+    Вам к [Евгению](https://t.me/evgeen55)
+    [Хотите Aliexpress (за оригинальность не ручаемся)](https://aliexpress.ru/store/1100367435?spm=a2g2w.detail.0.0.79a83699mxDeji&page=1&SearchText=kia)
+    
