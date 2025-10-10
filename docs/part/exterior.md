@@ -88,3 +88,4 @@
 ??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
     ![Images title](../images/glass_1.jpg)
     ![Images title](../images/glass_2.jpg)
+    ![Images title](../images/glass_3.jpg)
