@@ -58,6 +58,28 @@
 | Коврик на спинку заднего сидения | R8570P-1000R | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1000R/) |
 | Электропривод багажника| KR4F56-AP831 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.item.itemCnxh.23.6aca3da6ZFxnju&id=896423423175&categoryId=0)
 
+### Коврики в салон
+
+| Наименование | Артикул | Ссылки | Комментарий |
+|---|---|---|---|
+|Коврики аля кожзам | KQ8F14-AP823<br>KQ8F14-AP824 | [Китайский авито](https://www.goofish.com/item?id=722962353965&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.722962353965.2220879045763) | Нет уверенности в том, что подойдут |
+| Коврики аля кожзам | KCKF14-AP825 <br> KCKF14-AP827 | [Китайский авито](https://www.goofish.com/item?id=701640020778&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.701640020778.2220879045763) ||
+|Коврики резиновые | KCKF14-AP828|||
+
+??? info "Фото KQ8F14-AP823"
+    ![Image title](../images/KQ8F14AP823_1.webp)
+    ![Image title](../images/KQ8F14AP823_2.webp)
+    ![Image title](../images/KQ8F14AP823_3.webp)
+    ![Image title](../images/KQ8F14AP823_4.webp)
+    ![Image title](../images/KQ8F14AP823_5.webp)
+
+??? info "Фото KCKF14-AP825"
+    ![Image title](../images/KCKF14-AP825.webp)
+    ![Image title](../images/KCKF14-AP825_2.webp)
+    ![Image title](../images/KCKF14-AP825_3.webp)
+    ![Image title](../images/KCKF14-AP825_4.webp)
+    ![Image title](../images/KCKF14-AP825_5.webp)
+    ![Image title](../images/KCKF14-AP825_6.webp)
 
 
 ## Диски, гайки, секретки
