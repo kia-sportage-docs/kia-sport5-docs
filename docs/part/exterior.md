@@ -43,15 +43,15 @@
 **Для установки потребуется снятие обшивки потолка**
 
 ## Пороги
-| Производитель | Артикул |
-| --- | --- |
-| Kia/Hyundai | KR4F37-AP835 |
-
+| Артикул | Ссылки | Комментарий |
+|---|---|---|
+| R8650-P1000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8650P1000/) | **Информация о совместимости не подтверждена** |
+| KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
 
 ??? info "Фото"
-    [Images title](../images/KR4F37-AP835_1.avif)
-    [Images title](../images/KR4F37-AP835_2.avif)
-    [Images title](../images/KR4F37-AP835_3.avif)
+    ![Images title](../images/KR4F37-AP835_1.avif)
+    ![Images title](../images/KR4F37-AP835_2.avif)
+    ![Images title](../images/KR4F37-AP835_3.avif)
 
 ## Накладки на бампер
 | Производитель | Артикул |
@@ -78,3 +78,13 @@
     ![Images title](../images/KR4F39-AP834_3.avif)
     ![Images title](../images/KR4F39-AP834_4.avif)
     ![Images title](../images/KR4F39-AP834_5.avif)
+
+## Лобовое стекло
+
+| Производитель | Артикул |
+| --- | --- |
+| Kia/Hyundai | 86110-R4030 |
+
+??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
+    ![Images title](../images/glass_1.jpg)
+    ![Images title](../images/glass_2.jpg)
