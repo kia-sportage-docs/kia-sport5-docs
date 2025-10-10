@@ -86,3 +86,8 @@
 
 [Aliexpress](https://aliexpress.ru/item/1005008562646656.html)
 [Ozon](https://ozon.ru/t/l7W6k2H)
+
+
+## Защита разъема в двери
+
+[Avito](https://www.avito.ru/lobnya/zapchasti_i_aksessuary/zaschita_razema_dveri_kia_hyundai_1976717512?utm_campaign=native&utm_medium=item_page_android&utm_source=soc_sharing)
