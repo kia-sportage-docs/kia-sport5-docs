@@ -105,24 +105,33 @@
     ![Images title](../images/cooling_1.jpg)
     ![Images title](../images/cooling_2.jpg)
 
-| Наименование | Производитель | Артикул | 
-|--- |---|---|
-| Термостат| Kia/Hyundai | 25600-2JTA0 |
-| Опора | Kia/Hyundai | 25457-2E801 |
-| Трубка | Kia/Hyundai | 25460-2JTA0 |
-| Патрубок | Kia/Hyundai | 25473-2JTA0 |
-| Шланг системы охлаждения | Kia/Hyundai | 25480-2JTA0 |
-| Зажим-шланг | Kia/Hyundai | 25482-18006 |
-| Зажим-шланг | Kia/Hyundai | 25482-22006 |
-| Зажим-шланг | Kia/Hyundai | 25482-24006 |
-| Зажим-шланг | Kia/Hyundai | 25482-26006 
-| Прокладка | Kia/Hyundai | 25485-2JTA0 |
-| Трубка системы охлаждения | Kia/Hyundai | 25495-2JTA0 |
-| Патрубок | Kia/Hyundai | 25481-2JTA0 |
-| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25623-2JTA0 |
-| Фитинг шланга | Kia/Hyundai | 25630-2JTA0 |
-| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25624-2JTA0 |
-| Кольцо | Kia/Hyundai | 25457-2E802 |
+| Наименование | Производитель | Артикул | Ссылки |
+|--- |---|---|---|
+| Термостат| Kia/Hyundai | 25600-2JTA0 ||
+| Опора | Kia/Hyundai | 25457-2E801 ||
+| Трубка | Kia/Hyundai | 25460-2JTA0 ||
+| Патрубок | Kia/Hyundai | 25473-2JTA0 ||
+| Шланг системы охлаждения | Kia/Hyundai | 25480-2JTA0 ||
+| Зажим-шланг | Kia/Hyundai | 25482-18006 ||
+| Зажим-шланг | Kia/Hyundai | 25482-22006 ||
+| Зажим-шланг | Kia/Hyundai | 25482-24006 ||
+| Зажим-шланг | Kia/Hyundai | 25482-26006 |
+| Прокладка | Kia/Hyundai | 25485-2JTA0 ||
+| Трубка системы охлаждения | Kia/Hyundai | 25495-2JTA0 ||
+| Патрубок | Kia/Hyundai | 25481-2JTA0 ||
+| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25623-2JTA0 ||
+| Фитинг шланга | Kia/Hyundai | 25630-2JTA0 ||
+| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25624-2JTA0 ||
+| Кольцо | Kia/Hyundai | 25457-2E802 ||
+| Пыльник картера (пластиковый) | Kia/Hyundai | 29110-R4000 | [Aliexpress](https://aliexpress.ru/item/1005007798386346.html)|
+
+
+??? info "Фото пыльника 29110-R4000"
+
+    ![Images title](../images/29110-R4000_0.webp)
+    ![Images title](../images/29110-R4000_1.webp)
+    ![Images title](../images/29110-R4000_2.webp)
+    ![Images title](../images/29110-R4000_3.webp)
 
 
 
