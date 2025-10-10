@@ -43,6 +43,7 @@
 | RAF | RSTC012HY | [Ozon](https://ozon.ru/t/WNN3ecS) | угольный |
 | LGN | FC-223A | | антибактериальный<br>[Сравнение с оригиналом](https://t.me/Kia_Sportage_5_Turbo/36156/37679) | 
 | SIBTEK | AC0311C |[Ozon 1](https://ozon.ru/t/DyrxXyr)  </br> [Ozon 2](https://ozon.ru/t/ifYCuDb)||
+| Rospart | RF0455 | | |
 
 ## Топливный фильтр
 

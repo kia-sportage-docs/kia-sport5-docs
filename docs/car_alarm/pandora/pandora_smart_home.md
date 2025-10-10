@@ -5,10 +5,10 @@
 !!! warning "Поддерживаются только модели сигнализации с поддержкой веб-сервиса Pandora (с предустановленной SIM-картой)"
     
     Примеры поддерживаемых интеграцией сигнализаций:
-    
+
     - Pandora VX-4G v2/v3
     - Pandora VX-4G GPS v2/v3
-    - Pandora Commander v2
+    - Pandora Commander v1/v2
     - PanDECT X-1700 BT
     - PanDECT X-1900 BT
     - Pandora DX-4G
@@ -21,4 +21,5 @@
     - Pandora NAV-08 (маячок)
     
 Для развертывания требуется Home Assistant Community Store (HACS)
+
 
