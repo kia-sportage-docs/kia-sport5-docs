@@ -36,6 +36,7 @@
 [NoName](https://ozon.ru/t/7oZdUWT)
 [WBF](https://ozon.ru/t/fcTohAP)
 [Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
+[Masuma MU-16G + MU-26G](https://ozon.ru/t/Bx5Mo3u)
 
 и множество других на ваш выбор
 
@@ -87,8 +88,6 @@
 |---|---|
 | Kia/Hyundai | KACF99-AP758 |
 | Kia/Hyundai | KACF99-AP830 |
-
-
 
 ??? info "Фото KACF99-AP758"
     ![Images title](../images/KACF99-AP758_1.avif)
