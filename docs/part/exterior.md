@@ -27,6 +27,13 @@
 |---|---| --- |
 | Kia/Hyundai | 86110-R4030 | [Aliexpress](https://sl.aliexpress.ru/p?key=d2KcV8Z) |
 
+
+??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
+    ![Images title](../images/glass_1.jpg)
+    ![Images title](../images/glass_2.jpg)
+    ![Images title](../images/glass_3.jpg)
+
+
 ## Брызговики
 
 | Производитель | Артикул   | Ссылки |
@@ -79,13 +86,3 @@
     ![Images title](../images/KR4F39-AP834_4.avif)
     ![Images title](../images/KR4F39-AP834_5.avif)
 
-## Лобовое стекло
-
-| Производитель | Артикул |
-| --- | --- |
-| Kia/Hyundai | 86110-R4030 |
-
-??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
-    ![Images title](../images/glass_1.jpg)
-    ![Images title](../images/glass_2.jpg)
-    ![Images title](../images/glass_3.jpg)

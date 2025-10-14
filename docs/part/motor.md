@@ -133,6 +133,3 @@
     ![Images title](../images/29110-R4000_1.webp)
     ![Images title](../images/29110-R4000_2.webp)
     ![Images title](../images/29110-R4000_3.webp)
-
-
-
