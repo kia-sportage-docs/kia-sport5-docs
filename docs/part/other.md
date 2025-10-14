@@ -24,6 +24,21 @@
 | Kia/Hyundai | 98311-P1000 |
 | Kia/Hyundai | 98321-P1000 |
 
+## Переходники для дворников
+| Производитель | Артикул   | Ссылки |
+|---|---|---|
+| NoName | B20  | [Aliexpress](https://aliexpress.ru/item/1005006533195225.html) |
+| Fukoku |FA17 | |
+
+С данными переходниками можно использовать любые дворники с креплением "крючок", например:
+[RD5](https://ozon.ru/t/hwS3LqL)
+[Double Force](https://ozon.ru/t/Ev21jRa)
+[NoName](https://ozon.ru/t/7oZdUWT)
+[WBF](https://ozon.ru/t/fcTohAP)
+[Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
+
+и множество других на ваш выбор
+
 
 ## Клипсы
 ### Клипсы пластиковые для защиты и бампера
