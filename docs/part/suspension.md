@@ -28,6 +28,11 @@
 ??? info "HI-Q/Sangsin SP4379 - пример установки"
     ![Image title](../images/HI-Q_SANGSIN_SP4379-1.jpg){ loading=lazy }
     ![Image title](../images/HI-Q_SANGSIN_SP4379-2.jpg){ loading=lazy }
+    ![Image title](../images/SP4379_1.jpg){ loading=lazy }
+    ![Image title](../images/SP4379_2.jpg){ loading=lazy }
+
+??? info "HI-Q/Sangsin SP4373 - пример установки"
+    ![Image title](../images/SP4373.jpg){ loading=lazy }
 
 ### 1.5T
 | Производитель | Артикул | Комментарий |
