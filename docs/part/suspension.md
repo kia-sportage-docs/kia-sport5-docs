@@ -18,18 +18,47 @@
 
 ## Тормозные колодки
 ### 2.0T
+#### Передние колодки
 | Производитель | Артикул | Комментарий |
 |---|---|---|
-| Kia/Hyundai | 58101-R4A10 | передние  |
-| Kia/Hyundai | 58302-L6A15 | задние |
-| HI-Q / SANGSIN | SP4373 | задние, но они уже и на край диска не ложатся - будет буртик оставаться. По креплению подходят |
+| Kia/Hyundai | 58101-R4A10 |   |
+| Kia/Hyundai | 58101-L6A10 | Не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/81663485/PN6154))
+| NIBK | PN6154 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/81663485/PN6154))|
 | HI-Q / SANGSIN | SP4379 | Встают, но они уже и на край диска не ложатся - будет буртик оставаться + само ушко немного узкое в скобе суппорта болтаются |
+
+??? info "NIBK PN6154"
+    ![Image title](../images/PN6154.png){ loading=lazy }
 
 ??? info "HI-Q/Sangsin SP4379 - пример установки"
     ![Image title](../images/HI-Q_SANGSIN_SP4379-1.jpg){ loading=lazy }
     ![Image title](../images/HI-Q_SANGSIN_SP4379-2.jpg){ loading=lazy }
     ![Image title](../images/SP4379_1.jpg){ loading=lazy }
     ![Image title](../images/SP4379_2.jpg){ loading=lazy }
+
+
+#### Задние колодки
+
+| Производитель | Артикул | Комментарий |
+|---|---|---|
+| Kia/Hyundai | 58302-L6A15 |  |
+| Kia/Hyundai | 58302-Q3A00 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-L6A05 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-R9A00 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-G2A10 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-F0A50 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-AAA60 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| Kia/Hyundai | 58302-AAA40 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| HI-Q / SANGSIN | SP4462 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146)) |
+| FMSI | D2373-9631 |Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146))|
+| BENDIX AUS | DB2665 |Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146))|
+| KASHIYAMA | D11505MH |Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146))|
+| KASHIYAMA | D11505MH01 |Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146))|
+| NIBK | PN6146 | Пока не проверены ([Источник](https://www.jnbk-brakes.com/catalogue/cars/brake/67570473/PN6146))|
+| HI-Q / SANGSIN | SP4373 | На край диска не ложатся - будет буртик оставаться. По креплению подходят |
+
+??? info "NIBK PN6146"
+    ![Image title](../images/PN6146.png){ loading=lazy }
+
 
 ??? info "HI-Q/Sangsin SP4373 - пример установки"
     ![Image title](../images/SP4373.jpg){ loading=lazy }
