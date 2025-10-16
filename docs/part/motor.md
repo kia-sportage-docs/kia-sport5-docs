@@ -102,8 +102,8 @@
 ### 2.0T
 
 ??? info "Схемы"
-    ![Images title](../images/cooling_1.jpg)
-    ![Images title](../images/cooling_2.jpg)
+    ![Images title](../images/cooling_1.jpg){ loading=lazy }
+    ![Images title](../images/cooling_2.jpg){ loading=lazy }
 
 | Наименование | Производитель | Артикул | Ссылки |
 |--- |---|---|---|
@@ -127,9 +127,9 @@
 
 
 ??? info "Фото пыльника 29110-R4000"
-    ![Images title](../images/29110-R4000_4.jpg)
-    ![Images title](../images/29110-R4000_5.jpg)
-    ![Images title](../images/29110-R4000_0.webp)
-    ![Images title](../images/29110-R4000_1.webp)
-    ![Images title](../images/29110-R4000_2.webp)
-    ![Images title](../images/29110-R4000_3.webp)
+    ![Images title](../images/29110-R4000_4.jpg){ loading=lazy }
+    ![Images title](../images/29110-R4000_5.jpg){ loading=lazy }
+    ![Images title](../images/29110-R4000_0.webp){ loading=lazy }
+    ![Images title](../images/29110-R4000_1.webp){ loading=lazy }
+    ![Images title](../images/29110-R4000_2.webp){ loading=lazy }
+    ![Images title](../images/29110-R4000_3.webp){ loading=lazy }

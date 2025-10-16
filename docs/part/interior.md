@@ -17,8 +17,8 @@
 | Kia/Hyundai | 93700-R4100 |
 
 ??? info "Фото"
-    ![Images title](../images/panel_2.webp)
-    ![Images title](../images/panel_1.webp)
+    ![Images title](../images/panel_2.webp){ loading=lazy }
+    ![Images title](../images/panel_1.webp){ loading=lazy }
 
 
 ## Подсветка салона
@@ -27,10 +27,10 @@
 | Kia/Hyundai | KR4F39-AP833 |
 
 ??? info "Фото"
-    ![Images title](../images/KR4F39-AP833_1.avif)
-    ![Images title](../images/KR4F39-AP833_2.avif)
-    ![Images title](../images/KR4F39-AP833_3.avif)
-    ![Images title](../images/KR4F39-AP833_4.avif)
-    ![Images title](../images/KR4F39-AP833_5.avif)
-    ![Images title](../images/KR4F39-AP833_6.avif)
+    ![Images title](../images/KR4F39-AP833_1.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP833_2.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP833_3.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP833_4.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP833_5.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP833_6.avif){ loading=lazy }
     

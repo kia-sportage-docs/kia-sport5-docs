@@ -22,9 +22,9 @@
 | KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
 
 ??? info "Пороги KR4F37-AP835"
-    ![images](../images/KR4F37-AP835_1.avif)
-    ![images](../images/KR4F37-AP835_2.avif)
-    ![images](../images/KR4F37-AP835_3.avif)
+    ![images](../images/KR4F37-AP835_1.avif){ loading=lazy }
+    ![images](../images/KR4F37-AP835_2.avif){ loading=lazy }
+    ![images](../images/KR4F37-AP835_3.avif){ loading=lazy }
 
 ### Защитная пленка на ручки дверей
 
@@ -43,9 +43,9 @@
 | K87210-R4000 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.item.itemCnxh.23.25223da6yKFJEz&id=855482408287&categoryId=0) |
 
 ??? info "Фото"
-    ![images title](../images/K87210-R4000_1.avif)
-    ![images title](../images/K87210-R4000_2.avif)
-    ![images title](../images/K87210-R4000_3.avif)
+    ![images title](../images/K87210-R4000_1.avif){ loading=lazy }
+    ![images title](../images/K87210-R4000_2.avif){ loading=lazy }
+    ![images title](../images/K87210-R4000_3.avif){ loading=lazy }
 
 ## Интерьер
 ### Багажник
@@ -67,19 +67,19 @@
 |Коврики резиновые | KCKF14-AP828|||
 
 ??? info "Фото KQ8F14-AP823"
-    ![Image title](../images/KQ8F14AP823_1.webp)
-    ![Image title](../images/KQ8F14AP823_2.webp)
-    ![Image title](../images/KQ8F14AP823_3.webp)
-    ![Image title](../images/KQ8F14AP823_4.webp)
-    ![Image title](../images/KQ8F14AP823_5.webp)
+    ![Image title](../images/KQ8F14AP823_1.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_2.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_3.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_4.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_5.webp){ loading=lazy }
 
 ??? info "Фото KCKF14-AP825"
-    ![Image title](../images/KCKF14-AP825.webp)
-    ![Image title](../images/KCKF14-AP825_2.webp)
-    ![Image title](../images/KCKF14-AP825_3.webp)
-    ![Image title](../images/KCKF14-AP825_4.webp)
-    ![Image title](../images/KCKF14-AP825_5.webp)
-    ![Image title](../images/KCKF14-AP825_6.webp)
+    ![Image title](../images/KCKF14-AP825.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_2.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_3.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_4.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_5.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_6.webp){ loading=lazy }
 
 
 ## Диски, гайки, секретки
@@ -131,10 +131,10 @@
 |Подарочный набор | KACF99-AP688| [Китайский авито](https://www.goofish.com/item?spm=a21ybx.item.itemCnxh.12.3eaa3da6dEL4sm&id=797363423271&categoryId=0) |
 
 ??? info "Подарочный набор"
-    ![images title](../images/KACF99-AP688_1.avif)
-    ![images title](../images/KACF99-AP688_2.webp)
-    ![images title](../images/KACF99-AP688_3.avif)
-    ![images title](../images/KACF99-AP688_4.avif)
+    ![images title](../images/KACF99-AP688_1.avif){ loading=lazy }
+    ![images title](../images/KACF99-AP688_2.webp){ loading=lazy }
+    ![images title](../images/KACF99-AP688_3.avif){ loading=lazy }
+    ![images title](../images/KACF99-AP688_4.avif){ loading=lazy }
 
 ### Салфетки, щетки, ароматизаторы
 | Наименование | Артикул | Ссылки | 
@@ -145,12 +145,12 @@
 | Ароматизатор | KACF99-AP830| [Китайский авито](https://www.goofish.com/item?id=796845404586) |
 
 ??? info "Ароматизатор KACF99-AP758"
-    ![Images](../images/KACF99-AP758_1.avif)
-    ![Images](../images/KACF99-AP758_2.avif)
-    ![Images](../images/KACF99-AP758_3.avif)
-    ![Images](../images/KACF99-AP758_4.avif)
-    ![Images](../images/KACF99-AP758_5.avif)
+    ![Images](../images/KACF99-AP758_1.avif){ loading=lazy }
+    ![Images](../images/KACF99-AP758_2.avif){ loading=lazy }
+    ![Images](../images/KACF99-AP758_3.avif){ loading=lazy }
+    ![Images](../images/KACF99-AP758_4.avif){ loading=lazy }
+    ![Images](../images/KACF99-AP758_5.avif){ loading=lazy }
 
 ??? info "Ароматизатор KACF99-AP830"
-     ![Images](../images/KACF99-AP830_1.avif)
-     ![Images](../images/KACF99-AP830_2.avif)
+     ![Images](../images/KACF99-AP830_1.avif){ loading=lazy }
+     ![Images](../images/KACF99-AP830_2.avif){ loading=lazy }

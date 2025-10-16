@@ -78,9 +78,9 @@
 **Артикул** - KACF9-9AP688
 
 ??? info "Фото"
-    ![Images title](../images/pod_nabor_1.webp)
-    ![Images title](../images/pod_nabor2.avif)
-    ![Images title](../images/pod_nabor3.avif)
+    ![Images title](../images/pod_nabor_1.webp){ loading=lazy }
+    ![Images title](../images/pod_nabor2.avif){ loading=lazy }
+    ![Images title](../images/pod_nabor3.avif){ loading=lazy }
 
 ## Ароматизатор
 
@@ -90,12 +90,12 @@
 | Kia/Hyundai | KACF99-AP830 |
 
 ??? info "Фото KACF99-AP758"
-    ![Images title](../images/KACF99-AP758_1.avif)
-    ![Images title](../images/KACF99-AP758_2.avif)
-    ![Images title](../images/KACF99-AP758_3.avif)
-    ![Images title](../images/KACF99-AP758_4.avif)
-    ![Images title](../images/KACF99-AP758_5.avif)
+    ![Images title](../images/KACF99-AP758_1.avif){ loading=lazy }
+    ![Images title](../images/KACF99-AP758_2.avif){ loading=lazy }
+    ![Images title](../images/KACF99-AP758_3.avif){ loading=lazy }
+    ![Images title](../images/KACF99-AP758_4.avif){ loading=lazy }
+    ![Images title](../images/KACF99-AP758_5.avif){ loading=lazy }
 
 ??? info "Фото KACF99-AP758"
-    ![Images title](../images/KACF99-AP830_1.avif)
-    ![Images title](../images/KACF99-AP830_2.avif)
+    ![Images title](../images/KACF99-AP830_1.avif){ loading=lazy }
+    ![Images title](../images/KACF99-AP830_2.avif){ loading=lazy }

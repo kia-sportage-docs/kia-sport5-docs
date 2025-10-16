@@ -27,15 +27,15 @@
     - 4.1.3.1 Условие 1 - В охране
 
     ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_5.jpg)
+        ![image title](../../images/heat_autostart_5.jpg){ loading=lazy }
 
 7. Возвращаемся назад и переходим в раздел 4.1.4 "События срабатывания действия 1"
 8. В пункте 4.1.4.1 "Событие 1" выбираем "При удачном старте двигателя"
 
     ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_6.jpg)
+        ![image title](../../images/heat_autostart_6.jpg){ loading=lazy }
 
 9.  Возвращаемся назад и нажимаем "Сохранить настройки"
 
     ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_7.jpg)
+        ![image title](../../images/heat_autostart_7.jpg){ loading=lazy }

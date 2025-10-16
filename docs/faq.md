@@ -36,9 +36,9 @@
     
     Ответ есть на странице 9-13 [руководства](./expluatation/manuals.md): 
     
-    ![Images title](./images/motor_number_1.jpg)
+    ![Images title](./images/motor_number_1.jpg){ loading=lazy }
 
-    ![Images title](./images/motor_number_2jpg.jpg)
+    ![Images title](./images/motor_number_2jpg.jpg){ loading=lazy }
 
 ## Где располагается VIN?
 
@@ -50,8 +50,8 @@
     - не факт, что есть VIN под сиденьем пассажира;
     - VIN-номер также может располагаться под капотом (под жабо)
     
-    ![Images title](./images/vin-1.jpg)
-    ![Images title](./images/vin-2.jpg)
+    ![Images title](./images/vin-1.jpg){ loading=lazy }
+    ![Images title](./images/vin-2.jpg){ loading=lazy }
 
 ## Как проверить уровень масла в АКПП?
 

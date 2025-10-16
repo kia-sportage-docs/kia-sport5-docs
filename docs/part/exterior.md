@@ -29,9 +29,9 @@
 
 
 ??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
-    ![Images title](../images/glass_1.jpg)
-    ![Images title](../images/glass_2.jpg)
-    ![Images title](../images/glass_3.jpg)
+    ![Images title](../images/glass_1.jpg){ loading=lazy }
+    ![Images title](../images/glass_2.jpg){ loading=lazy }
+    ![Images title](../images/glass_3.jpg){ loading=lazy }
 
 
 ## Брызговики
@@ -56,9 +56,9 @@
 | KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
 
 ??? info "Фото"
-    ![Images title](../images/KR4F37-AP835_1.avif)
-    ![Images title](../images/KR4F37-AP835_2.avif)
-    ![Images title](../images/KR4F37-AP835_3.avif)
+    ![Images title](../images/KR4F37-AP835_1.avif){ loading=lazy }
+    ![Images title](../images/KR4F37-AP835_2.avif){ loading=lazy }
+    ![Images title](../images/KR4F37-AP835_3.avif){ loading=lazy }
 
 ## Накладки на бампер
 | Производитель | Артикул |
@@ -67,12 +67,12 @@
 | Kia/Hyundai| KR4F31-AP836 |
 
 ??? info "Фото"
-    ![Images title](../images/KR4F31-AP837_1.avif)
-    ![Images title](../images/KR4F31-AP837_2.avif)
-    ![Images title](../images/KR4F31-AP837_3.avif)
-    ![Images title](../images/KR4F31-AP837_4.avif)
-    ![Images title](../images/KR4F31-AP837_5.avif)
-    ![Images title](../images/KR4F31-AP837_6.avif)
+    ![Images title](../images/KR4F31-AP837_1.avif){ loading=lazy }
+    ![Images title](../images/KR4F31-AP837_2.avif){ loading=lazy }
+    ![Images title](../images/KR4F31-AP837_3.avif){ loading=lazy }
+    ![Images title](../images/KR4F31-AP837_4.avif){ loading=lazy }
+    ![Images title](../images/KR4F31-AP837_5.avif){ loading=lazy }
+    ![Images title](../images/KR4F31-AP837_6.avif){ loading=lazy }
 
 ## Подсветка задних габаритов
 | Производитель | Артикул |
@@ -80,9 +80,9 @@
 | Kia/Hyundai | KR4F39-AP834 |
 
 ??? info "Фото"
-    ![Images title](../images/KR4F39-AP834_1.avif)
-    ![Images title](../images/KR4F39-AP834_2.avif)
-    ![Images title](../images/KR4F39-AP834_3.avif)
-    ![Images title](../images/KR4F39-AP834_4.avif)
-    ![Images title](../images/KR4F39-AP834_5.avif)
+    ![Images title](../images/KR4F39-AP834_1.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP834_2.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP834_3.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP834_4.avif){ loading=lazy }
+    ![Images title](../images/KR4F39-AP834_5.avif){ loading=lazy }
 

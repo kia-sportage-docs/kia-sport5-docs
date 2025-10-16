@@ -30,7 +30,7 @@
 
 ## Консоль АКПП
 
-![Image title](../images/akpp_panel.jpg)
+![Image title](../images/akpp_panel.jpg){ loading=lazy }
 
 1. Режимы КПП 
 2. Шайба переключение КПП
@@ -47,7 +47,7 @@
 
 ## Руль
 
-![Image title](../images/wheel.jpg)
+![Image title](../images/wheel.jpg){ loading=lazy }
 
 1. Голосовое управление
 2. Режимы музыки (программируемая кнопка можно выбрать источники музыки какие нужны)
@@ -64,7 +64,7 @@
 
 ## Панель под рулем
 
-![Image title](../images/glass_panel.jpg)
+![Image title](../images/glass_panel.jpg){ loading=lazy }
 
 1. Наклон фар
 2. Старт-стоп (по умолчанию включен, выключен когда горит кнопка)
