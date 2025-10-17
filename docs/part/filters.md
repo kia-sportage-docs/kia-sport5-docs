@@ -29,7 +29,7 @@
 |---|---|---| 
 | Kia/Hyundai | 28113-R4200 | |
 | Kia/Hyundai | 28113-L4400 | |
-| MANN | C31041 | [Ozon](https://ozon.ru/t/WfhnjMy) |
+| MANN | C31041 | [Ozon](https://ozon.ru/t/WfhnjMy) <br> [Aliexpress](https://ali.click/33uilh)|
 | MAHLE | LX5523 | [Ozon](https://ozon.ru/t/rdhe1ax) |
 
 
