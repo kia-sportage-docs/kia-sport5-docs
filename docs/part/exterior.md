@@ -47,15 +47,18 @@
 | Левый | 87270-R4000 |
 | Правый| 87280-R4000 |
 
-**Для установки потребуется снятие обшивки потолка**
+!!! warning "Для установки потребуется снятие обшивки потолка"
 
 ## Пороги
 | Артикул | Ссылки | Комментарий |
 |---|---|---|
-| R8650-P1000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8650P1000/) | **Информация о совместимости не подтверждена** |
 | KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
 
-??? info "Фото"
+
+!!! warning "Пороги [R8650-P1000](https://www.kia.ru/service/accessories/R8650P1000/) (Казахской или Калининградской сборки), а также пороги Rival - не подходят для нажего авто."
+
+
+??? info "Фото KR4F37-AP835"
     ![Images title](../images/KR4F37-AP835_1.avif){ loading=lazy }
     ![Images title](../images/KR4F37-AP835_2.avif){ loading=lazy }
     ![Images title](../images/KR4F37-AP835_3.avif){ loading=lazy }
