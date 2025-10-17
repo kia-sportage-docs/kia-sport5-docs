@@ -15,7 +15,7 @@
 | Kia/Hyundai | GSF03B-400 | | резинка правая |
 | LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | |
 |RD5| без номера |[Ozon](https://ozon.ru/t/h1orqeG)| Щетки RD5 должны использоваться с [переходником B20](./accessories.md#_8)|
-| OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/dQ7Kq08)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single) |
+| OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single) |
 
 ## Поводки дворников (Казахстанская версия с крючком)
 

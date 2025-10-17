@@ -18,8 +18,9 @@
 ### Боковые пороги
  Артикул | Ссылки | Комментарий |
 |---|---|---|
-| R8650-P1000 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8650P1000/) | **Информация о совместимости не подтверждена** |
 | KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
+
+!!! warning "Пороги [R8650-P1000](https://www.kia.ru/service/accessories/R8650P1000/) (Казахской или Калининградской сборки), а также пороги Rival - не подходят для нажего авто."
 
 ??? info "Пороги KR4F37-AP835"
     ![images](../images/KR4F37-AP835_1.avif){ loading=lazy }

@@ -38,7 +38,7 @@
 
 | Производитель | Артикул   | Ссылки |
 |---|---|---|
-| Китай | - | [Ozon](https://ozon.ru/t/mzDJV1R)|
+| Китай | - | [Ozon-1](https://ozon.ru/t/mzDJV1R)<br>[Ozon-2](https://ozon.ru/t/2HeQkRS)|
 
 ## Рейлинги
 

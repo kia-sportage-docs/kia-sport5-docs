@@ -21,5 +21,3 @@
     - Pandora NAV-08 (маячок)
     
 Для развертывания требуется Home Assistant Community Store (HACS)
-
-
