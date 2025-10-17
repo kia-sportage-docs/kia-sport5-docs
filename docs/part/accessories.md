@@ -8,10 +8,27 @@
 | Производитель | Артикул | Ссылки | Комментарий |
 |---|---|---| --- |
 | Kia/Hyundai | KR4F14-AP825 | [ТГ](https://t.me/Kia_Sportage_5_Turbo/36159/117860)| |
+| Kia/Hyundai |Коврики аля кожзам | KQ8F14-AP823<br>KQ8F14-AP824 | [Китайский авито](https://www.goofish.com/item?id=722962353965&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.722962353965.2220879045763) | Нет уверенности в том, что подойдут |
+| Kia/Hyundai | Коврики аля кожзам | KCKF14-AP825 <br> KCKF14-AP827 | [Китайский авито](https://www.goofish.com/item?id=701640020778&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.701640020778.2220879045763) ||
+| Kia/Hyundai |Коврики резиновые | KCKF14-AP828|||
 | Delform | EVS-0611 | [Ozon](https://ozon.ru/t/g2U420E) | Подходят от Tucson с доработкой: установить универсальное крепление и сделать вырез под рычаг лючка бензобака |
 | NoName |- |[Ozon](https://ozon.ru/t/tk19aVu) | Ворсовые |
 | NoName | - | [Ozon](https://ozon.ru/t/h1FAkwN) | EVA-ковры с бортом |
 
+??? info "Фото KQ8F14-AP823"
+    ![Image title](../images/KQ8F14AP823_1.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_2.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_3.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_4.webp){ loading=lazy }
+    ![Image title](../images/KQ8F14AP823_5.webp){ loading=lazy }
+
+??? info "Фото KCKF14-AP825"
+    ![Image title](../images/KCKF14-AP825.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_2.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_3.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_4.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_5.webp){ loading=lazy }
+    ![Image title](../images/KCKF14-AP825_6.webp){ loading=lazy }
 
 ### Крепление для ковриков
 
