@@ -30,7 +30,8 @@ nav:
     - 'Инструкции по эксплуатации': expluatation/manuals.md 
     - 'Описание кнопок в салоне': expluatation/buttons.md
     - 'Аксессуары': part/accessories.md
-  - 'Доработки':
+  - 'Доработки и тюнинг':
+    - improvement/index.md
     - 'Обогрев руля': improvement/wheel-heating.md
     - 'Шторка в багажник': improvement/trunk-curtain.md
     - 'Освещение в бардачке': improvement/light-in-glove.md
