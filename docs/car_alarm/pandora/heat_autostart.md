@@ -4,38 +4,38 @@
 
 1. Переходим в раздел 4 "Таймерные каналы"
     
-    ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_1.jpg)
+    ??? info "Показать скриншот"
+        ![image title](../../images/heat_autostart_1.jpg){ loading=lazy }
 
 2. Переходим в раздел 4.1 "Блок таймерных каналов 1"
     
-    ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_2.jpg)
+    ??? info "Показать скриншот"
+        ![image title](../../images/heat_autostart_2.jpg){ loading=lazy }
 
 3. Оставляет раздел 4.1.1 без изменений и сразу переходим в раздел 4.1.2 "Выбор действия"
    
-    ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_3.jpg)
+    ??? info "Показать скриншот"
+        ![image title](../../images/heat_autostart_3.jpg){ loading=lazy }
 
 4. В пункте 4.1.2.1 "Действие 1" выбираем "Включить подогрев сидений"
     
-    ??? info "Скриншот"
-        ![image title](../../images/heat_autostart_4.jpg)
+    ??? info "Показать скриншот"
+        ![image title](../../images/heat_autostart_4.jpg){ loading=lazy }
 
 5. Возвращаемся назад и переходим в раздел 4.1.3 "Условия срабатывания действия 1"
 6. Выбираем пункты, как указано на скриншоте ниже:
     - 4.1.3.1 Условие 1 - В охране
 
-    ??? info "Скриншот"
+    ??? info "Показать скриншот"
         ![image title](../../images/heat_autostart_5.jpg){ loading=lazy }
 
 7. Возвращаемся назад и переходим в раздел 4.1.4 "События срабатывания действия 1"
 8. В пункте 4.1.4.1 "Событие 1" выбираем "При удачном старте двигателя"
 
-    ??? info "Скриншот"
+    ??? info "Показать скриншот"
         ![image title](../../images/heat_autostart_6.jpg){ loading=lazy }
 
 9.  Возвращаемся назад и нажимаем "Сохранить настройки"
 
-    ??? info "Скриншот"
+    ??? info "Показать скриншот"
         ![image title](../../images/heat_autostart_7.jpg){ loading=lazy }

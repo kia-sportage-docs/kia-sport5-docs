@@ -46,8 +46,9 @@
 
 | Наименование | Артикул | Ссылка |
 | --- | --- | --- |
-|Панель с КПП и с подогревом и вентиляцией (Premium и Flagship) | 93300-R4100 | [Aliexpress](https://sl.aliexpress.ru/p?key=wTegVGx)
-|Панель с КПП без подогрева (Luxury)| 93300-R4000 |
+|Панель с КПП и с подогревом и вентиляцией (Premium и Flagship) | 97250-R4100 | [Aliexpress](https://sl.aliexpress.ru/p?key=wTegVGx)
+|Панель с КПП без подогрева (Luxury)| 97250-R4000 |
+
 
 ## Обманка старт/стоп
 
