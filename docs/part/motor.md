@@ -105,24 +105,31 @@
     ![Images title](../images/cooling_1.jpg){ loading=lazy }
     ![Images title](../images/cooling_2.jpg){ loading=lazy }
 
-| Наименование | Производитель | Артикул | Ссылки |
-|--- |---|---|---|
-| Термостат| Kia/Hyundai | 25600-2JTA0 ||
-| Опора | Kia/Hyundai | 25457-2E801 ||
-| Трубка | Kia/Hyundai | 25460-2JTA0 ||
-| Патрубок | Kia/Hyundai | 25473-2JTA0 ||
-| Шланг системы охлаждения | Kia/Hyundai | 25480-2JTA0 ||
-| Зажим-шланг | Kia/Hyundai | 25482-18006 ||
-| Зажим-шланг | Kia/Hyundai | 25482-22006 ||
-| Зажим-шланг | Kia/Hyundai | 25482-24006 ||
+
+??? info "Фотографии термостата"
+    ![Images title](../images/25600-2JTA0_1.jpg){ loading=lazy, allign=left }
+    ![Images title](../images/25600-2JTA0_2.jpg){ loading=lazy, allign=right}
+    ![Images title](../images/25600-2JTA0_3.jpg){ loading=lazy, allign=left}
+    ![Images title](../images/25600-2JTA0_4.jpg){ loading=lazy, allign=right}
+
+| Наименование | Производитель | Артикул | 
+|--- |---|---|
+| Термостат| Kia/Hyundai | 25600-2JTA0 |
+| Опора | Kia/Hyundai | 25457-2E801 |
+| Трубка | Kia/Hyundai | 25460-2JTA0 |
+| Патрубок | Kia/Hyundai | 25473-2JTA0 |
+| Шланг системы охлаждения | Kia/Hyundai | 25480-2JTA0 |
+| Зажим-шланг | Kia/Hyundai | 25482-18006 |
+| Зажим-шланг | Kia/Hyundai | 25482-22006 |
+| Зажим-шланг | Kia/Hyundai | 25482-24006 |
 | Зажим-шланг | Kia/Hyundai | 25482-26006 |
-| Прокладка | Kia/Hyundai | 25485-2JTA0 ||
-| Трубка системы охлаждения | Kia/Hyundai | 25495-2JTA0 ||
-| Патрубок | Kia/Hyundai | 25481-2JTA0 ||
-| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25623-2JTA0 ||
-| Фитинг шланга | Kia/Hyundai | 25630-2JTA0 ||
-| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25624-2JTA0 ||
-| Кольцо | Kia/Hyundai | 25457-2E802 ||
+| Прокладка | Kia/Hyundai | 25485-2JTA0 |
+| Трубка системы охлаждения | Kia/Hyundai | 25495-2JTA0 |
+| Патрубок | Kia/Hyundai | 25481-2JTA0 |
+| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25623-2JTA0 |
+| Фитинг шланга | Kia/Hyundai | 25630-2JTA0 |
+| Прокладочное кольцо-корпус термостата | Kia/Hyundai | 25624-2JTA0 |
+| Кольцо | Kia/Hyundai | 25457-2E802 |
 
 
 ## Пыльник картера

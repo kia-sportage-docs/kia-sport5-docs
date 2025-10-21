@@ -14,9 +14,18 @@
 
 ??? info "Фото 206308-1123"
     ![Image title](../images/206308-1123.jpg){ loading=lazy }
+    ![Image title](../images/206308-1123_1.jpg){ loading=lazy }
+    ![Image title](../images/206308-1123_2.jpg){ loading=lazy }
+
 
 ??? info "Фото 206308-0550"
     ![Image title](../images/206308-0550.jpg){ loading=lazy }
+    ![Image title](../images/206308-0550_1.jpg){ loading=lazy }
+    ![Image title](../images/206308-1123_3.jpg){ loading=lazy }
+    ![Image title](../images/206308-1123_4.jpg){ loading=lazy }
+    
+??? info "Фото 206308-1222"
+    ![Image title](../images/206308-1222.jpg){ loading=lazy }
 
 ## Разъемы USB
 
