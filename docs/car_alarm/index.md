@@ -1,4 +1,5 @@
 # Сигнализации (выбор, полезные материалы)
 
-## [Pandora](pandora/index.md)
-## [Starline](starline/index.md) 
+- [Pandora](pandora/index.md)
+- [Starline](starline/index.md) 
+- [Прочие средства безопасности](other.md)
