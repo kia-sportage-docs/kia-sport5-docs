@@ -38,6 +38,7 @@ nav:
     - 'Отключение функции старт/стоп': improvement/start-stop-off.md
     - 'Установка видеорегистратора': improvement/video-register.md
   - 'ТО и ремонты':
+    - service/index.md
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
