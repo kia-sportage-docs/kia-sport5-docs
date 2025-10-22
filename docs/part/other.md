@@ -3,19 +3,21 @@
 !!! warning "Ссылки"
     Ссылки брались из сообщений в [Telegram-группе](https://t.me/Kia_Sportage_5_Turbo), поэтому приведены в информационных целях и не гарантируют оригинальность расходников и запчастей.
 
-## Щетки очистителя (размеры 600/400)
+## Щетки стеклоочистителя - дворники (размеры 600/400)
 
 Идеальный размер по отзывам -  650/400 (при использовании поводков от Казахской сборки)
 
-| Производитель | Артикул | Ссылки | Комментарий|
-|---|---|---| --- |
-| Kia/Hyundai | 98350-R4000 | | левая щетка |
-| Kia/Hyundai | 98360-R4000| | правая щетка |
-| Kia/Hyundai | GSF03B-600 | | резинка левая | 
-| Kia/Hyundai | GSF03B-400 | | резинка правая |
-| LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | |
-|RD5| без номера |[Ozon](https://ozon.ru/t/h1orqeG)| Щетки RD5 должны использоваться с [переходником B20](./accessories.md#_8)|
-| OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single) |
+| Описание | Производитель | Артикул | Ссылки | Комментарий|
+|---|---|---|---| --- |
+| Левая щетка | Kia/Hyundai | 98350-R4000 | | |
+| Правая щетка | Kia/Hyundai | 98360-R4000| | |
+| Задний дворник | Kia/Hyundai | 98850-P2000 | | **информация не проверена** |
+| Резинка левая |  Kia/Hyundai | GSF03B-600 | | | 
+| Резинска правая |Kia/Hyundai | GSF03B-400 | | |
+| Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | |
+| Комплект (левая + правая) | OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single). Также есть жалобы, что скрипят и полосят сразу после установки |
+| Комплект (леавя + правая) | X-TEC | XC24-KH + XC18-KH | [2dvornika](https://2dvornika.ru/kia/kia_sportage/18527.html) | **Еще не протестированы!** |
+
 
 ## Поводки дворников (Казахстанская версия с крючком)
 
@@ -31,12 +33,13 @@
 | Fukoku |FA17 | |
 
 С данными переходниками можно использовать любые дворники с креплением "крючок", например:
-[RD5](https://ozon.ru/t/hwS3LqL)
-[Double Force](https://ozon.ru/t/Ev21jRa)
-[NoName](https://ozon.ru/t/7oZdUWT)
-[WBF](https://ozon.ru/t/fcTohAP)
-[Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
-[Masuma MU-16G + MU-26G](https://ozon.ru/t/Bx5Mo3u)
+
+- [RD5](https://ozon.ru/t/hwS3LqL)
+- [Double Force](https://ozon.ru/t/Ev21jRa)
+- [NoName](https://ozon.ru/t/7oZdUWT)
+- [WBF](https://ozon.ru/t/fcTohAP)
+- [Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
+- [Masuma MU-16G + MU-26G](https://ozon.ru/t/Bx5Mo3u)
 
 и множество других на ваш выбор
 
