@@ -24,6 +24,8 @@
       - [Требования к техническим жидкостям](service/oil.md)
       - [Электросхемы](service/manuals/electrical_circuits/index.md)
 
+- [Ресрус с инструкциями из TIS](https://kiagds.ru)
+
 ## Исходники ресурса
 
 Все исходники на [GitHub](https://github.com/kia-sportage-docs/kia-sport5-docs)
