@@ -9,12 +9,12 @@
 |---|---| --- |
 | Kia/Hyundai | 18878-08115 ||
 | Kia/Hyundai | 18878-09115 ||
-| NGK | SILZKR8E9G | была замена (см ниже) |
 | NGK | SILZKR8H9G | |
+| NGK | SILZKR8E9G | была замена на SILZKR8H9G см. ниже |
 
 ??? info "Замена NGK SILZKR8E9G на SILZKR8H9G"
     Был бюллетень по замене SILZKR8E9G на SILZKR8H9G
-    <center>![Image title](../images/photo_2025-09-15_12-25-28.jpg){ loading=lazy }</center>
+    ![Image title](../images/photo_2025-09-15_12-25-28.jpg){ loading=lazy }
 
 ### 1.5T
 | Производитель | Артикул | Комментарий |
