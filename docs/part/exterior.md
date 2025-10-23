@@ -50,9 +50,9 @@
 !!! warning "Для установки потребуется снятие обшивки потолка"
 
 ## Пороги
-| Артикул | Ссылки | Комментарий |
-|---|---|---|
-| KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)||
+| Артикул | Ссылки |
+|---|---|
+| KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)|
 
 
 !!! warning "Пороги [R8650-P1000](https://www.kia.ru/service/accessories/R8650P1000/) (Казахской или Калининградской сборки), а также пороги Rival - не подходят для нажего авто."

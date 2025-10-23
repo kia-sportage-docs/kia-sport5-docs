@@ -29,11 +29,11 @@
 
 ## Разъемы USB
 
-| Производитель | Артикул   | Наименование |
+| Наименование | Производитель | Артикул |
 |---|---|---|
-| Kia/Hyundai | 96120-R4000 | Разъем USB |
-| Kia/Hyundai | 84624-R4000 | Проводка Type-C |
-| Kia/Hyundai | 96125-R4000 | Разъем Type-C |
+| Разъем USB | Kia/Hyundai | 96120-R4000 |
+| Проводка Type-C | Kia/Hyundai | 84624-R4000 |
+| Разъем Type-C | Kia/Hyundai | 96125-R4000 |
 
 ??? info "Схема для Разъема USB 96120-R4000"
     ![Image title](../images/photo_2024-11-20_10-06-13.jpg){ loading=lazy }
