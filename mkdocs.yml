@@ -52,6 +52,7 @@ nav:
       - 'Коды цвета кузова': service/manuals/colors.md
       - 'Устранение проблем с турбиной': service/manuals/turbine.md
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
+      - 'Устранение бряканья двери багажника на кочках': service/manuals/5-th_door_silent.md
       - 'Параметры шин и дисков': service/manuals/wheels.md
   - 'Русификация': translate.md
   - 'Номера запчастей':

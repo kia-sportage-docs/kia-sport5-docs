@@ -23,6 +23,7 @@
       - [График ТО](service/to.md)
       - [Требования к техническим жидкостям](service/oil.md)
       - [Электросхемы](service/manuals/electrical_circuits/index.md)
+      - [Инструкции по обслуживанию и устранению дефектов/недостатков](service/index.md)
 
 - [Ресрус с инструкциями из TIS](https://kiagds.ru)
 

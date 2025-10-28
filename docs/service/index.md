@@ -8,6 +8,7 @@
     - [Инициализация (калибровка) механизма открытия багажника](manuals/5-th_door_calibraton.md)
     - [Устранение проблем с турбиной (недодув/передув)](manuals/turbine.md)
     - [Устранение проблем с обогревом зеркал](manuals/glass-heat.md)
+    - [Устранение бряканья двери багажника на кочках](manuals/5-th_door_silent.md)
 - [Электросхемы:](manuals/electrical_circuits/index.md)
     - [Схема блока IBU](manuals/electrical_circuits/ibu.md)
     - [Распиновка блока ICU](manuals/electrical_circuits/icu.md)
