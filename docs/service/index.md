@@ -5,6 +5,7 @@
 - [Информация по техническим жидкостям](oil.md)
 - Инструкуции:
     - [Адаптация педали газа](manuals/gas-adaptation.md)
+    - [Инициализация (калибровка) механизма открытия багажника](manuals/5-th_door_calibraton.md)
     - [Устранение проблем с турбиной (недодув/передув)](manuals/turbine.md)
     - [Устранение проблем с обогревом зеркал](manuals/glass-heat.md)
 - [Электросхемы:](manuals/electrical_circuits/index.md)
