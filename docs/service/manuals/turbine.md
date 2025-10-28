@@ -44,4 +44,6 @@
     <center>
     ![Image title](../../images/turbo_5.jpg){ loading=lazy }
     ![Image title](../../images/turbo_6.jpg){ loading=lazy }
-    </center>    
+    </center>
+
+[Официальная инструкция из TIS](https://kiagds.ru/?mode=SHOP&marke=KM&year=2025&model=9988&mkb=191__29720&docId=1154828&page=)
