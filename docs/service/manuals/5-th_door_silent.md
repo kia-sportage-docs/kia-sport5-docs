@@ -22,11 +22,12 @@
 Попробуйте обмотать петлю замка тонкой лентой в **один слой**. Есть положительный опыт использования [данной ленты](https://ozon.ru/t/Gv2zLKS)
 
 ??? info "Фотография петли с намотанной лентой"
-
     ![Image title](../../images/5-th-1.jpg){ loading=lazy }
     ![Image title](../../images/5-th-2.jpg){ loading=lazy }
+    ![Image title](../../images/photo_2025-10-28_17-55-44_1.jpg){ loading=lazy }
 
 ??? info "Пример ленты"
     ![Image title](../../images/5-th-0.jpg){ loading=lazy }
+    ![Image title](../../images/photo_2025-10-28_17-55-44.jpg){ loading=lazy }
 
 Также выполните [калибровку механизма открытия двери багажника](5-th_door_calibraton.md)
