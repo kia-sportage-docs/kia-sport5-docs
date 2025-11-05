@@ -35,4 +35,9 @@
     ![Images title](../images/KR4F39-AP833_4.avif){ loading=lazy }
     ![Images title](../images/KR4F39-AP833_5.avif){ loading=lazy }
     ![Images title](../images/KR4F39-AP833_6.avif){ loading=lazy }
-    
+
+
+## Демпфер багажника
+| Артикул | Ссылка | Комментарий |
+| --- | --- | --- |
+| 81738-1J000 | [Ozon](https://ozon.ru/t/tkNfrio) | Не родной! Длинее родного и поэтому дает больше возможности для регулировки |

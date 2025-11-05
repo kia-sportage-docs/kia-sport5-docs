@@ -76,3 +76,9 @@
 
 - [Ozon](https://ozon.ru/t/quCQgR7)
 - [Aliexpress](https://sl.aliexpress.ru/p?key=wnyhVYb)
+
+## Крышка минусовой клемы АКБ
+
+| Артикул | Ссылка |
+|---|---|
+|37113-C5100| [Ozon](https://ozon.ru/t/390gOkE)
