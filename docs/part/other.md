@@ -14,7 +14,7 @@
 | Задний дворник | Kia/Hyundai | 98850-P2000 | | **информация не проверена** |
 | Резинка левая |  Kia/Hyundai | GSF03B-600 | | | 
 | Резинска правая |Kia/Hyundai | GSF03B-400 | | |
-| Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | |
+| Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | [Пример работы](https://t.me/Kia_Sportage_5_Turbo/36156/143835) **Обратите внимание, нужен вариант LHD - Left Hand Drive** |
 | Комплект (левая + правая) | OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single). Также есть жалобы, что скрипят и полосят сразу после установки |
 | Комплект (леавя + правая) | X-TEC | XC24-KH + XC18-KH | [2dvornika](https://2dvornika.ru/kia/kia_sportage/18527.html) | **Еще не протестированы!** |
 

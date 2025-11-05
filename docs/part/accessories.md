@@ -11,9 +11,19 @@
 | Kia/Hyundai |Коврики аля кожзам | KQ8F14-AP823<br>KQ8F14-AP824 | [Китайский авито](https://www.goofish.com/item?id=722962353965&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.722962353965.2220879045763) | Нет уверенности в том, что подойдут |
 | Kia/Hyundai | Коврики аля кожзам | KCKF14-AP825 <br> KCKF14-AP827 | [Китайский авито](https://www.goofish.com/item?id=701640020778&spm=widle.12011849.copy.detail&ut_sk=1.aNgDOkObNiwDAOTkA3Z43seu_12431167_1759001764406.copy.detail.701640020778.2220879045763) ||
 | Kia/Hyundai |Коврики резиновые | KCKF14-AP828|||
-| Delform | EVS-0611 | [Ozon](https://ozon.ru/t/g2U420E) | Подходят от Tucson с доработкой: установить универсальное крепление и сделать вырез под рычаг лючка бензобака |
+| Delform | EVS-0611 | [Ozon 1](https://ozon.ru/t/g2U420E)<br />[Ozon 2](https://ozon.ru/t/QogFtO4) | Подходят от Tucson с доработкой: установить универсальное крепление и сделать вырез под рычаг лючка бензобака |
+| SRTK | - | [Ozon](https://ozon.ru/t/JT64ECa) | Резиновые (требуется подрезка 5-10 мм в области рычага открытия лючка бензобака). Есть жалобы на запах, но он уходит после 1-2 моек |
 | NoName |- |[Ozon](https://ozon.ru/t/tk19aVu) | Ворсовые |
 | NoName | - | [Ozon](https://ozon.ru/t/h1FAkwN) | EVA-ковры с бортом |
+
+??? info "Delform"
+    ![Image title](../images/delform_1.jpg){ loading=lazy }
+
+??? info "SRTK резиновые"
+    ![Image title](../images/srtk_1.jpg){ loading=lazy }
+    ![Image title](../images/srtk_2.jpg){ loading=lazy }
+    ![Image title](../images/srtk_3.jpg){ loading=lazy }
+
 
 ??? info "Фото KQ8F14-AP823"
     ![Image title](../images/KQ8F14AP823_1.webp){ loading=lazy }
@@ -48,7 +58,6 @@
 | Коврик багажного отсека (резиновый) | Mile | | [Ozon](https://www.ozon.ru/product/kovrik-v-bagazhnik-3d-kia-sportage-5-komplektatsiya-s-sabvuferom-2022-2025-kovriki-avtomobilnye-kia-699697483/?from=share_ios&perehod=smm_share_button_productpage_link) |
 
 
-
 ### Сетка в багажник
 
 - [Сетка 60х90](https://ozon.ru/t/tkPaOAG)
@@ -79,7 +88,7 @@
 
 !!! warning "При установке не подходящих упоров может возникнуть щель между кузовом и капотом"
 
-### Поводки дворников
+### Поводки дворников (Казах)
 
 | Производитель | Артикул | Ссылки |
 |---|---|---|
