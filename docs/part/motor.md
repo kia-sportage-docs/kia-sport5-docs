@@ -103,6 +103,10 @@
 ??? info "Схемы"
     ![Images title](../images/cooling_1.jpg){ loading=lazy }
     ![Images title](../images/cooling_2.jpg){ loading=lazy }
+    ![Images title](../images/photo_2025-10-30_11-56-09.jpg){ loading=lazy }
+    /// caption
+    С этой фотографии парт-номера не переведены в таблицу
+    ///
 
 ??? info "Фотографии термостата"
     ![Images title](../images/25600-2JTA0_1.jpg){ loading=lazy, allign=left }
@@ -142,3 +146,9 @@
     ![Images title](../images/29110-R4000_1.webp){ loading=lazy }
     ![Images title](../images/29110-R4000_2.webp){ loading=lazy }
     ![Images title](../images/29110-R4000_3.webp){ loading=lazy }
+
+
+## Турбонагнетатель (турбина)
+
+??? info "Схема"
+    ![Images title](../images/photo_2025-10-30_11-56-08.jpg){ loading=lazy }

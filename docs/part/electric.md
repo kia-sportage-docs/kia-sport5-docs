@@ -48,10 +48,10 @@
 | Kia/Hyundai | 93700-R4100 |
 
 ??? info "Фото"
-    ![Images title](../images/panel_2.webp)
-    ![Images title](../images/panel_1.webp)
+    ![Images title](../images/panel_2.webp){ loading=lazy }
+    ![Images title](../images/panel_1.webp){ loading=lazy }
 
-## Панель климата: 
+## Панель климата
 
 | Наименование | Артикул | Ссылка |
 | --- | --- | --- |
@@ -82,3 +82,12 @@
 | Артикул | Ссылка |
 |---|---|
 |37113-C5100| [Ozon](https://ozon.ru/t/390gOkE)
+
+## Блок ЭБУ
+
+| Производитель | Артикул   |
+|---|---|
+| Kia/Hyundai | 39110-2J892 |
+
+??? info "Фото"
+    ![Images title](../images/photo_2024-05-15_22-18-54.jpg){ loading=lazy }
