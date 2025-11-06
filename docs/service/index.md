@@ -10,6 +10,7 @@
     - [Устранение проблем с турбиной (недодув/передув)](manuals/turbine.md)
     - [Устранение проблем с обогревом зеркал](manuals/glass-heat.md)
     - [Устранение бряканья двери багажника на кочках](manuals/5-th_door_silent.md)
+    - [Видеоинструкция по снятию обшивки дверей](https://rutube.ru/video/4c1c3ee65d095cf15030bfd28436140e/)
 - [Электросхемы:](manuals/electrical_circuits/index.md)
     - [Схема блока IBU](manuals/electrical_circuits/ibu.md)
     - [Распиновка блока ICU](manuals/electrical_circuits/icu.md)
