@@ -38,7 +38,6 @@
 - [NoName](https://ozon.ru/t/7oZdUWT)
 - [WBF](https://ozon.ru/t/fcTohAP)
 - [Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
-- [Masuma MU-16G + MU-26G](https://ozon.ru/t/Bx5Mo3u)
 
 и множество других на ваш выбор
 
