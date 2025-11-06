@@ -3,15 +3,31 @@
 ## Мероприятия
 
 1. Антикор (отсутствует заводской антикор, только герметик)
-2. Заменить жидкость в муфте
-3. В 5000 км или 150 ± моточасов заменить моторное масло и фильтр
-4. Профилактика полного привода (смазку на заводе жалеют)
-5. Защитить регулировочные болты (сход-развал)
+   
+??? info "А нужен ли антикор?"
+    Решать вам....
+
+    ![Images title](../images/anicor_1.jpg){ loading=lazy }
+    ![Images title](../images/anicor_2.jpg){ loading=lazy }
+    ![Images title](../images/anicor_3.jpg){ loading=lazy }
+    ![Images title](../images/anicor_4.jpg){ loading=lazy }
+    ![Images title](../images/anicor_5.jpg){ loading=lazy }
+    ![Images title](../images/anicor_6.jpg){ loading=lazy }
+    ![Images title](../images/anicor_7.jpg){ loading=lazy }
+    ![Images title](../images/anicor_8.jpg){ loading=lazy }
+    ![Images title](../images/anicor_9.jpg){ loading=lazy }
+    ![Images title](../images/anicor_10.jpg){ loading=lazy }
+    
+
+1. Заменить жидкость в муфте
+2. В 5000 км или 150 ± моточасов заменить моторное масло и фильтр
+3. Профилактика полного привода (смазку на заводе жалеют)
+4. Защитить регулировочные болты (сход-развал)
    
     ??? info "Фото" 
         ![Images title](../images/photo_2025-10-06_10-29-02.jpg){ loading=lazy }
 
-6. Опционально:
+5. Опционально:
     - Смазать направляющие тормозных суппортов
     - Сход-развал, балансировка колес
     - Замена поводков дворников на версию из Казахстана (у Китайцев специфический метод крепления дворников)

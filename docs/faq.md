@@ -119,3 +119,28 @@
         3. Переводим шайбу в положение N
    
         Зажигание останется в статусе "ON", но можно выходить из машины и она не перейдет в паркинг. При этом нельзя снимать клемы с акумулятора, т.к. после появления питания машина перейдет в паркинг.
+
+
+## Как заменить батарейку в пульте?
+
+??? question "Видео"
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gv1TwdZwMIo?si=xUu0lkxKDTBoCSfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+
+
+## Нужен ли антикор?
+
+??? question "Смотрите и решайте сами..."
+    <center>
+    ![Images title](images/anicor_1.jpg){ loading=lazy }
+    ![Images title](images/anicor_2.jpg){ loading=lazy }
+    ![Images title](images/anicor_3.jpg){ loading=lazy }
+    ![Images title](images/anicor_4.jpg){ loading=lazy }
+    ![Images title](images/anicor_5.jpg){ loading=lazy }
+    ![Images title](images/anicor_6.jpg){ loading=lazy }
+    ![Images title](images/anicor_7.jpg){ loading=lazy }
+    ![Images title](images/anicor_8.jpg){ loading=lazy }
+    ![Images title](images/anicor_9.jpg){ loading=lazy }
+    ![Images title](images/anicor_10.jpg){ loading=lazy } </center>
