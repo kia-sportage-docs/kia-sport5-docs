@@ -12,6 +12,7 @@
     - [Устранение бряканья двери багажника на кочках](manuals/5-th_door_silent.md)
     - [Видеоинструкция по снятию обшивки дверей](https://rutube.ru/video/4c1c3ee65d095cf15030bfd28436140e/)
     - [Замена резинок в дворниках](manuals/smena_rezinok.md)
+    - [Установка радиатора АКПП](manuals/AT-cooling.md)
 - [Электросхемы:](manuals/electrical_circuits/index.md)
     - [Схема блока IBU](manuals/electrical_circuits/ibu.md)
     - [Распиновка блока ICU](manuals/electrical_circuits/icu.md)

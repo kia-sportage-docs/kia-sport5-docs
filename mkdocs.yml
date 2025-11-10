@@ -55,6 +55,7 @@ nav:
       - 'Устранение проблем с обогревом зеркал': service/manuals/glass-heat.md
       - 'Устранение бряканья двери багажника на кочках': service/manuals/5-th_door_silent.md
       - 'Параметры шин и дисков': service/manuals/wheels.md
+      - 'Установка радиатора АКПП': service/manuals/AT-cooling.md
       - 'Замена резинок дворников': service/manuals/smena_rezinok.md
   - 'Русификация': translate.md
   - 'Номера запчастей':
