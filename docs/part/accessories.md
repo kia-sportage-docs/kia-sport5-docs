@@ -169,6 +169,8 @@
     ![Image title](../images/photo_2025-11-09_11-58-21_2.jpg){ loading=lazy }
     ![Image title](../images/photo_2025-11-09_11-58-21_3.jpg){ loading=lazy }
 
+    [Видео работы](https://t.me/Kia_Sportage_5_Turbo/36159/147585)
+    
 ### Резинки дворников 
 
 **Формат резинок:** Bosch
