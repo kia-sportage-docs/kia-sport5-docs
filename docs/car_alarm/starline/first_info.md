@@ -2,11 +2,11 @@
 
 ## Проверенные сигнализации
 
-- Starline S96 v2
-- Starline E96 v2
-- Starline S97 GPS
-
-
+- StarLine S96 v2
+- StarLine E96 v2
+- StarLine S97 GPS
+- StarLine S66 v2
+ 
 ## Работающий функционал:
 
 - Управление климатом
