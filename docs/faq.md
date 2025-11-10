@@ -144,3 +144,9 @@
     ![Images title](images/anicor_8.jpg){ loading=lazy }
     ![Images title](images/anicor_9.jpg){ loading=lazy }
     ![Images title](images/anicor_10.jpg){ loading=lazy } </center>
+
+
+## Как заменить резинки дворников?
+
+??? question "[Инструкция](service\manuals\smena_rezinok.md)"
+    

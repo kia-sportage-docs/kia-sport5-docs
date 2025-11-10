@@ -142,16 +142,10 @@
 | Задний дворник | Kia/Hyundai | 98850-P2000 | | **информация не проверена** |
 | Резинка левая |  Kia/Hyundai | GSF03B-600 | | | 
 | Резинска правая |Kia/Hyundai | GSF03B-400 | | |
-| Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://aliexpress.ru/item/1005009068323895.html) | [Пример работы](https://t.me/Kia_Sportage_5_Turbo/36156/143835) **Обратите внимание, нужен вариант LHD - Left Hand Drive** |
-| Комплект (левая + правая) | OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single). Также есть жалобы, что скрипят и полосят сразу после установки |
-| Комплект (леавя + правая) | X-TEC | XC24-KH + XC18-KH | [2dvornika](https://2dvornika.ru/kia/kia_sportage/18527.html) | **Еще не протестированы!** |
-
-### Поводки дворников (Казахстанская версия с крючком)
-
-| Производитель | Артикул |
-|---|---|
-| Kia/Hyundai | 98311-P1000 |
-| Kia/Hyundai | 98321-P1000 |
+| Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://ali.click/vk9mo1) | [Пример работы](https://t.me/Kia_Sportage_5_Turbo/36156/143835) **Обратите внимание, нужен вариант LHD - Left Hand Drive** |
+| Комплект (левая + правая) 600/450 | OSAWA | F88-24 + 18 | [Ozon](https://ozon.ru/t/A0m4jV6)| Могут продаваться и по отдельности (Osawa F88-24 и Osawa F88-18). Правый 450мм, немного задевает в нижнем положении - [видеодемонстрация](https://t.me/Kia_Sportage_5_Turbo/36159/117977?single). Также есть жалобы, что скрипят и полосят сразу после установки |
+| Комплект (леавя + правая) 600/450 | X-TEC | XC24-KH + XC18-KH | [2dvornika](https://2dvornika.ru/kia/kia_sportage/18527.html) | **Еще не протестированы!** |
+| Комплект (левая + правая) 600/450 | NoName | F-61-24-18 | [Aliexpress](https://ali.click/uk8mow)| **Еще не протестированы!** |
 
 ### Переходники для дворников
 | Производитель | Артикул   | Ссылки |
@@ -166,8 +160,30 @@
 - [NoName](https://ozon.ru/t/7oZdUWT)
 - [WBF](https://ozon.ru/t/fcTohAP)
 - [Zekkert AR653S](https://ozon.ru/t/L4wOfh6)
+- [Zekkert HW6001/HW4001](https://ozon.ru/t/Ec8dp8J)
 
 и множество других на ваш выбор c съемным креплением
+
+??? info "Zekkert HW6001/HW4001"
+    ![Image title](../images/photo_2025-11-09_11-58-21.jpg){ loading=lazy }
+    ![Image title](../images/photo_2025-11-09_11-58-21_2.jpg){ loading=lazy }
+    ![Image title](../images/photo_2025-11-09_11-58-21_3.jpg){ loading=lazy }
+
+### Резинки дворников 
+
+**Формат резинок:** Bosch
+
+[Wildberries](https://www.wildberries.ru/catalog/101002563/detail.aspx?targetUrl=SN)
+
+[ALCA - Ozon](https://ozon.ru/t/fA2pyCG)
+
+[Akita - Ozon](https://ozon.ru/t/jhA0qot)
+
+[Резинки для дворников Osawa](https://ozon.ru/t/1GVX4RY)
+
+
+!!! info "[Инструкция по смене резинок](../service/manuals/smena_rezinok.md)"
+
 
 ## Клипсы
 ### Клипсы пластиковые для защиты и бампера
