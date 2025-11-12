@@ -24,7 +24,6 @@
     ![Image title](../images/srtk_2.jpg){ loading=lazy }
     ![Image title](../images/srtk_3.jpg){ loading=lazy }
 
-
 ??? info "Фото KQ8F14-AP823"
     ![Image title](../images/KQ8F14AP823_1.webp){ loading=lazy }
     ![Image title](../images/KQ8F14AP823_2.webp){ loading=lazy }
@@ -44,7 +43,6 @@
 
 [WB](https://www.wildberries.ru/catalog/250658965/detail.aspx?targetUrl=SN)
 
-
 ### Коврик в багажник
 
 У нас вариант с сабом
@@ -57,14 +55,12 @@
 | Коврик багажного отсека (резиновый) | Element | | [С сабом - Ozon](https://ozon.ru/t/7i1J2Yy) |
 | Коврик багажного отсека (резиновый) | Mile | | [Ozon](https://www.ozon.ru/product/kovrik-v-bagazhnik-3d-kia-sportage-5-komplektatsiya-s-sabvuferom-2022-2025-kovriki-avtomobilnye-kia-699697483/?from=share_ios&perehod=smm_share_button_productpage_link) |
 
-
 ### Сетка в багажник
 
 - [Сетка 60х90](https://ozon.ru/t/tkPaOAG)
 
 ### Органайзер в подлокотник
 - [Ozon](https://ozon.ru/t/LteZYjq)
-
 
 ### Накладки на рейлинги передних сидений
 
@@ -88,28 +84,13 @@
 |---|---|---| --- |
 | Rival | 111.2862.1  | [Ozon](https://ozon.ru/t/g2Pvyf4) | **Не подходит один кронштейн для крепления - надо колхозить. Сама защита по форме бака подходит.** |
 
-
 ## Газовые упоры капота
 | Производитель | Артикул   | Ссылки | Комментарий |
 |---|---|---| --- |
 | Китай | - | [Aliexpress](https://aliexpress.ru/item/1005005270062965.html)| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36156/109038)
-
+| Автоупор | UHYTUC021 | [Ozon](https://www.ozon.ru/product/amortizator-kapota-2-sht-dlya-henday-tukson-4-kia-sporteydzh-5-art-uhytuc021-avtoupor-2890131247/) | [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36159/148431) |
 
 !!! warning "При установке не подходящих упоров может возникнуть щель между кузовом и капотом"
-
-**К нам точно не подходят следующие упоры:**
-
-| Производитель | Артикул   | Ссылки | Комментарий |
-|---|---|---| --- |
-| NoName | - | [Ozon](https://ozon.ru/t/rdw0K5w) | [Отзыв](https://t.me/Kia_Sportage_5_Turbo/36159/148394) |
-
-
-## Поводки дворников (Казах)
-
-| Производитель | Артикул | Ссылки |
-|---|---|---|
-| Kia/Hyundai | 98311P-1000 (левый) ||
-| Kia/Hyundai | 98321P-1000 (правый) ||
 
 ## Номерные рамки
 
@@ -129,11 +110,9 @@
 [Aliexpress](https://aliexpress.ru/item/1005008562646656.html)
 [Ozon](https://ozon.ru/t/l7W6k2H)
 
-
 ## Защита разъема в двери
 
 [Avito](https://www.avito.ru/lobnya/zapchasti_i_aksessuary/zaschita_razema_dveri_kia_hyundai_1976717512?utm_campaign=native&utm_medium=item_page_android&utm_source=soc_sharing)
-
 
 ## Щетки
 
@@ -189,9 +168,14 @@
 
 [Резинки для дворников Osawa](https://ozon.ru/t/1GVX4RY)
 
-
 !!! info "[Инструкция по смене резинок](../service/manuals/smena_rezinok.md)"
 
+## Поводки дворников (Казах)
+
+| Производитель | Артикул |
+|---|---|
+| Kia/Hyundai | 98311P-1000 (левый) |
+| Kia/Hyundai | 98321P-1000 (правый) |
 
 ## Клипсы
 ### Клипсы пластиковые для защиты и бампера

@@ -3,7 +3,6 @@
 !!! warning "Ссылки"
     Ссылки брались из сообщений в [Telegram-группе](https://t.me/Kia_Sportage_5_Turbo), поэтому приведены в информационных целях и не гарантируют оригинальность расходников и запчастей.
 
-
 ## Разъемы блока ЭБУ
 | Производитель | Артикул   |
 |---|---|
@@ -11,12 +10,10 @@
 | Kia/Hyundai | 206308-1123 |
 | Kia/Hyundai | 206308-0550 |
 
-
 ??? info "Фото 206308-1123"
     ![Image title](../images/206308-1123.jpg){ loading=lazy }
     ![Image title](../images/206308-1123_1.jpg){ loading=lazy }
     ![Image title](../images/206308-1123_2.jpg){ loading=lazy }
-
 
 ??? info "Фото 206308-0550"
     ![Image title](../images/206308-0550.jpg){ loading=lazy }
@@ -57,7 +54,6 @@
 | --- | --- | --- |
 |Панель с КПП и с подогревом и вентиляцией (Premium и Flagship) | 97250-R4100 | [Aliexpress](https://sl.aliexpress.ru/p?key=wTegVGx)
 |Панель с КПП без подогрева (Luxury)| 97250-R4000 |
-
 
 ## Обманка старт/стоп
 

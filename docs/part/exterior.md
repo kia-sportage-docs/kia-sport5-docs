@@ -27,19 +27,16 @@
 ??? info "Схема"
     ![Image title](../images/photo_2025-10-30_11-39-45.jpg) 
 
-
 ## Лобовое стекло
 
 | Производитель | Артикул | Ссылки |
 |---|---| --- |
 | Kia/Hyundai | 86110-R4030 | [Aliexpress](https://sl.aliexpress.ru/p?key=d2KcV8Z) |
 
-
 ??? info "Бывают как обычные стекла, так и шумоподавляющие (значек уха на маркировке)"
     ![Images title](../images/glass_1.jpg){ loading=lazy }
     ![Images title](../images/glass_2.jpg){ loading=lazy }
     ![Images title](../images/glass_3.jpg){ loading=lazy }
-
 
 ## Брызговики
 
@@ -61,9 +58,7 @@
 |---|---|
 | KR4F37-AP835 | [Китайский авито](https://www.goofish.com/item?spm=a21ybx.personal.feeds.5.fdff6ac2bfnfSn&id=971696335272&categoryId=50023914)|
 
-
 !!! warning "Пороги [R8650-P1000](https://www.kia.ru/service/accessories/R8650P1000/) (Казахской или Калининградской сборки), а также пороги Rival - не подходят для нажего авто."
-
 
 ??? info "Фото KR4F37-AP835"
     ![Images title](../images/KR4F37-AP835_1.avif){ loading=lazy }
@@ -95,4 +90,3 @@
     ![Images title](../images/KR4F39-AP834_3.avif){ loading=lazy }
     ![Images title](../images/KR4F39-AP834_4.avif){ loading=lazy }
     ![Images title](../images/KR4F39-AP834_5.avif){ loading=lazy }
-
