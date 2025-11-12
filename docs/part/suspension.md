@@ -120,7 +120,6 @@
 | 18" | Kia/Hyundai | 52910-P1210 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1210/) |
 | 17" | Kia/Hyundai | 52910-P1110 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/52910P1110/) |
 
-
 ??? info "Изображение дисков"
     <center>![Image title](../images/disks.jpg){ loading=lazy }</center>
 
