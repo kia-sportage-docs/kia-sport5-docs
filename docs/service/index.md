@@ -21,3 +21,4 @@
 - [Коды цвета краски](manuals/colors.md)
 - [Ресрус с инструкциями из TIS](https://kiagds.ru)
 - [Коды ошибок (на Китайском)](https://dongcheyun.com/p/4572)
+- [Схемы с артикулами для 2.0Т Flagship](https://t.me/Kia_Sportage_5_Turbo/36156/148836)
