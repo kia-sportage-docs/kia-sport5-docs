@@ -41,6 +41,7 @@ nav:
     - service/index.md
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
+    - 'Схемы из TIS': schemas/index.md
     - 'Инструкции по ремонту и обслуживанию':
       - 'Электросхемы':
         - service/manuals/electrical_circuits/index.md
