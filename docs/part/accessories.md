@@ -15,6 +15,7 @@
 | SRTK | - | [Ozon](https://ozon.ru/t/JT64ECa) | Резиновые (требуется подрезка 5-10 мм в области рычага открытия лючка бензобака). Есть жалобы на запах, но он уходит после 1-2 моек |
 | NoName |- |[Ozon](https://ozon.ru/t/tk19aVu) | Ворсовые |
 | NoName | - | [Ozon](https://ozon.ru/t/h1FAkwN) | EVA-ковры с бортом |
+| NoName | - | [Avito](https://www.avito.ru/moskva/zapchasti_i_aksessuary/kovriki_3d_dlya_kia_sportage_5_2021-n.v_4499020553)| Ворсовые с бортом |
 
 ??? info "Delform"
     ![Image title](../images/delform_1.jpg){ loading=lazy }
