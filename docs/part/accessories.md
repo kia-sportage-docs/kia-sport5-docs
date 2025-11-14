@@ -54,6 +54,15 @@
 | Коврик багажного отсека (резиновый) |Kia/Hyundai | R8570-P1100 | [Оф.сайт Kia.ru](https://www.kia.ru/service/accessories/R8570P1100/) |
 | Коврик багажного отсека (резиновый) | Element | | [С сабом - Ozon](https://ozon.ru/t/7i1J2Yy) |
 | Коврик багажного отсека (резиновый) | Mile | | [Ozon](https://www.ozon.ru/product/kovrik-v-bagazhnik-3d-kia-sportage-5-komplektatsiya-s-sabvuferom-2022-2025-kovriki-avtomobilnye-kia-699697483/?from=share_ios&perehod=smm_share_button_productpage_link) |
+| 3D коврики (аля кожа) в багажник | NoName | | [Ozon](https://ozon.ru/t/g2RsUMq) |
+
+??? info "Фото 3D коврики (аля кожа) в багажник"
+
+    ![Images title](../images/3d_bag_1.webp)
+    ![Images title](../images/3d_bag_2.webp)
+    ![Images title](../images/3d_bag_3.webp)
+    ![Images title](../images/3d_bag_4.webp)
+
 
 ### Сетка в багажник
 
