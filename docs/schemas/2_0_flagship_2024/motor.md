@@ -7,8 +7,8 @@
 ## Двигатель в сборе
 
 ??? info "Схема"
-    <center>![Images title](../../images/schema/motor_1.png)
-    ![Images title](../../images/schema/motor_2.png)</center>
+    <center>![Images title](../../images/schema/motor_1.png){ loading=lazy }
+    ![Images title](../../images/schema/motor_2.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 ## Комплект прокладочных колец
 
 ??? info "Схема"
-    <center>![Image title](../../images/schema/motor_3.png)</center>
+    <center>![Image title](../../images/schema/motor_3.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -29,7 +29,7 @@
 ## Блок цилиндров [20-211B]
 
 ??? info "Схема"
-    <center>![Image title](../../images/schema/motor_4.png)</center>
+    <center>![Image title](../../images/schema/motor_4.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -56,7 +56,7 @@
 ## Блок двигателя
 
 ??? info "Схема"
-    <center>![Image title](../../images/schema/motor_8.png)</center>
+    <center>![Image title](../../images/schema/motor_8.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -89,7 +89,7 @@
 ## Головка блока цилиндров
 
 ??? info "Схема"
-    <center>![Image title](../../images/schema/motor_9.png)</center>
+    <center>![Image title](../../images/schema/motor_9.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -99,7 +99,7 @@
 ## Масляная система
 
 ??? info "Схема"
-    <center>![Image title](../../images/schema/motor_5.png)</center>
+    <center>![Image title](../../images/schema/motor_5.png){ loading=lazy }</center>
 
 !!! note "Схема ссылается на следующие схемы: [Поддон двигателя и масляный щуп [20-215B]](#20-215b) ; [Блок цилиндров [20-211B]](#20-211b)"
 
@@ -128,7 +128,7 @@
 
 ## Поддон двигателя и масляный щуп [20-215B]
 ??? info "Схема "
-    <center>![Image title](../../images/schema/motor_6.png)</center>
+    <center>![Image title](../../images/schema/motor_6.png){ loading=lazy }</center>
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|
@@ -160,7 +160,7 @@
 
 ## Подушки двигателя
 ??? info "Схема "
-    <center>![Image title](../../images/schema/motor_7.png)</center>
+    <center>![Image title](../../images/schema/motor_7.png){ loading=lazy }</center>
 
 !!! note "Схема ссылается на следующие схемы: 60-624 и 60-640"
 

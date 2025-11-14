@@ -59,10 +59,10 @@
 
 ??? info "Фото 3D коврики (аля кожа) в багажник"
 
-    ![Images title](../images/3d_bag_1.webp)
-    ![Images title](../images/3d_bag_2.webp)
-    ![Images title](../images/3d_bag_3.webp)
-    ![Images title](../images/3d_bag_4.webp)
+    ![Images title](../images/3d_bag_1.webp){ loading=lazy }
+    ![Images title](../images/3d_bag_2.webp){ loading=lazy }
+    ![Images title](../images/3d_bag_3.webp){ loading=lazy }
+    ![Images title](../images/3d_bag_4.webp){ loading=lazy }
 
 
 ### Сетка в багажник
