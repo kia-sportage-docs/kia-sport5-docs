@@ -41,7 +41,6 @@ nav:
     - service/index.md
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
-    - 'Схемы из TIS': schemas/index.md
     - 'Инструкции по ремонту и обслуживанию':
       - 'Электросхемы':
         - service/manuals/electrical_circuits/index.md
@@ -81,4 +80,5 @@ nav:
       - car_alarm/starline/index.md
       - 'Общая информация': car_alarm/starline/first_info.md
     - 'Прочие средства безопасности': car_alarm/other.md
+  - 'Схемы из TIS': schemas/index.md
   - 'FAQ': faq.md
