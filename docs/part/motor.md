@@ -9,8 +9,9 @@
 |---|---| --- |
 | Kia/Hyundai | 18878-08115 ||
 | Kia/Hyundai | 18878-09115 ||
-| NGK | SILZKR8H9G | |
-| NGK | SILZKR8E9G | была замена на SILZKR8H9G см. ниже |
+| Kia/Hyundai | 18857-09085 | от Kia Stinger|
+| NGK | SILZKR8H9G | от Kia Stinger |
+| NGK | SILZKR8E9G | от Kia Stinger, **была замена на SILZKR8H9G см. ниже** |
 
 ??? info "Замена NGK SILZKR8E9G на SILZKR8H9G"
     Был бюллетень по замене SILZKR8E9G на SILZKR8H9G
@@ -89,7 +90,6 @@
     ![Images title](../images/29110-R4000_1.webp){ loading=lazy }
     ![Images title](../images/29110-R4000_2.webp){ loading=lazy }
     ![Images title](../images/29110-R4000_3.webp){ loading=lazy }
-
 
 ## Турбонагнетатель (турбина)
 
