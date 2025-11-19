@@ -11,7 +11,7 @@
 
 - [FAQ (Вопрос-ответ)](faq.md)
 - [Обзоры и сравнение версий](versions.md)
-- [Запчати](part/index.md)
+- [Запчасти](part/index.md)
 - [Известные проблемы](issue.md)
 - [Доработка и тюнинг](improvement/index.md)
 - [Рекомендации для новых авто](expluatation/new_car.md)
