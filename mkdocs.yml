@@ -8,6 +8,9 @@ theme:
   favicon: images/apple-touch-icon-152x152.png
   features:
     - navigation.indexes
+#    - navigation.tabs
+#    - navigation.tabs.sticky
+#    - toc.integrate
 markdown_extensions:
   - admonition
   - attr_list
