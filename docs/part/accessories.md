@@ -136,6 +136,7 @@
 | Правая щетка | Kia/Hyundai | 98360-R4000| | |
 | Задний дворник | Kia/Hyundai | 98850-R4000 | [информация из TIS](https://t.me/Kia_Sportage_5_Turbo/36156/148836) |
 | Задний дворник | Kia/Hyundai | 98850-P2000 | | **информация не проверена** |
+| Задний дворник | Lynx | LR30T | [Ozon](https://ozon.ru/t/ifLnttG) | [Проверено](https://t.me/Kia_Sportage_5_Turbo/36161/155501) |
 | Резинка левая |  Kia/Hyundai | GSF03B-600 | | | 
 | Резинска правая |Kia/Hyundai | GSF03B-400 | | |
 | Комплект (левая + правая) | LNJING | без номера | [Aliexpress](https://ali.click/vk9mo1) | [Пример работы](https://t.me/Kia_Sportage_5_Turbo/36156/143835) **Обратите внимание, нужен вариант LHD - Left Hand Drive** |
