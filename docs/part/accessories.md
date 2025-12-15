@@ -182,6 +182,16 @@
 
 !!! info "[Инструкция по смене резинок](../service/manuals/smena_rezinok.md)"
 
+### Задний дворник
+Подходит дворники от [Opel Astra J](https://t.me/Kia_Sportage_5_Turbo/36161/155501)
+
+| Производитель | Артикул | Cсылка | Комментарий |
+|---|---|---|---|
+| Kia/Hyundai | 98850-R4000 | |[информация из TIS](https://t.me/Kia_Sportage_5_Turbo/36156/148836) |
+| Kia/Hyundai | 98850-P2000 | | **информация не проверена** |
+| Lynx | LR30T | [Ozon](https://ozon.ru/t/bah7Lv2)| [Пример установки](https://t.me/Kia_Sportage_5_Turbo/36161/155501?single)|
+
+
 ## Поводки дворников (Казах)
 
 | Производитель | Артикул |
