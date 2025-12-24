@@ -1,0 +1,4446 @@
+<!DOCTYPE html><html lang="ru" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://kia-sportage-docs.github.io/kia-sport5-docs/schemas/2_0_flagship_2024/motor/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../images/apple-touch-icon-152x152.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Двигатель - Документация по Kia Sportage 5 Turbo</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M22%2012a10%2010%200%200%201-10%2010A10%2010%200%200%201%202%2012%2010%2010%200%200%201%2012%202a10%2010%200%200%201%2010%2010M6%2013h8l-3.5%203.5%201.42%201.42L17.84%2012l-5.92-5.92L10.5%207.5%2014%2011H6z%22/%3E%3C/svg%3E');}</style>
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Перейти к содержанию
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Верхний колонтитул">
+    <a href="../../.." title="Документация по Kia Sportage 5 Turbo" class="md-header__button md-logo" aria-label="Документация по Kia Sportage 5 Turbo" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Документация по Kia Sportage 5 Turbo
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Двигатель
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Поиск" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Поиск">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Очистить" aria-label="Очистить" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Инициализация поиска
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Навигация" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Документация по Kia Sportage 5 Turbo" class="md-nav__button md-logo" aria-label="Документация по Kia Sportage 5 Turbo" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Документация по Kia Sportage 5 Turbo
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    О ресурсе
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../versions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Выбор и сравнение
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../issue/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Известные проблемы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Эксплуатация
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Эксплуатация
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../expluatation/new_car/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Новая машина
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../expluatation/manuals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Инструкции по эксплуатации
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../expluatation/buttons/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Описание кнопок в салоне
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/accessories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Аксессуары
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../improvement/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Доработки и тюнинг
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Доработки и тюнинг
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../improvement/wheel-heating/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Обогрев руля
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../improvement/trunk-curtain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Шторка в багажник
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../improvement/light-in-glove/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Освещение в бардачке
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../improvement/start-stop-off/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Отключение функции старт/стоп
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../improvement/video-register/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Установка видеорегистратора
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../service/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ТО и ремонты
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ТО и ремонты
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/to/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    График ТО
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/oil/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Технические жидкости
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4">
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Инструкции по ремонту и обслуживанию
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Инструкции по ремонту и обслуживанию
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4_1">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../service/manuals/electrical_circuits/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Электросхемы
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_4_1" id="__nav_6_4_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Электросхемы
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/electrical_circuits/ibu/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Схема блока IBU
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/electrical_circuits/icu/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Схема блока ICU
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/electrical_circuits/fuse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Схема предохранителей
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/gas-adaptation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Адаптация педали газа
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/5-th_door_calibraton/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Инициализация (калибровка) механизма открытия багажника
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/hatch_init/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Инициализация (калибровка) люка и шторки панорамы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/colors/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Коды цвета кузова
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/turbine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Устранение проблем с турбиной
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/glass-heat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Устранение проблем с обогревом зеркал
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/5-th_door_silent/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Устранение бряканья двери багажника на кочках
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/wheels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Параметры шин и дисков
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/AT-cooling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Установка радиатора АКПП
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../service/manuals/smena_rezinok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Замена резинок дворников
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../translate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Русификация
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../part/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Номера запчастей
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Номера запчастей
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/filters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Фильтры
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/motor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Мотор
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/fuel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Топливная система
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/suspension/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Подвеска
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/interior/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Интерьер
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/exterior/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Экстерьер и кузовные элементы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/electric/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Электрика
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/other/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Прочее
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/accessories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Аксессуары
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../part/official_tuning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Официальный тюнинг и аксессуары
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../car_alarm/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Сигнализации
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9" id="__nav_9_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Сигнализации
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../car_alarm/pandora/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pandora
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Pandora
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../car_alarm/pandora/first_info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Общая информация
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../car_alarm/pandora/heat_autostart/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Включение подогрева сидений при дистанционном запуске
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3">
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../car_alarm/starline/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Starline
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9_3" id="__nav_9_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Starline
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../car_alarm/starline/first_info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Общая информация
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../car_alarm/other/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Прочие средства безопасности
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Схемы из TIS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Содержание">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#motor_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Двигатель в сборе
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Комплект прокладочных колец
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#20-211b" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Блок цилиндров [20-211B]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Блок двигателя
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Головка блока цилиндров
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Масляная система
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#20-215b" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Поддон двигателя и масляный щуп [20-215B]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Подушки двигателя
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Коленвал и поршень
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ГРМ, гидрокомпенсаторы
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ремень (навесное оборудование)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Радиаторы и вентилятор охлаждения
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Термостат
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Воздушный фильтр и его корпус
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Интеркулер
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motor_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Впуск и выпуск
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">Двигатель</h1>
+<div class="admonition warning">
+<p class="admonition-title">Раздел в стадии наполнения</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title"><a href="https://t.me/Kia_Sportage_5_Turbo/36156/148836">Источник информации</a></p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">О чтении схемы</p>
+<p>На схемах обозначены номера деталей. В таблицах указаны номера из схем и артикул, соответствующей этому номеру. </p>
+<p>Если схема ссылается на другую схему, то указывается номер схемы и/или дается ссылка на эту схему</p>
+<p><strong><em>Курсивом</em></strong> обозначены альтернативные артикулы (парт-номера), которые перечислены в этих схема производителем</p>
+<p>Ссылки в артикулах ведут на страницу с альтернативами, которые уже известны и были определены ранее в разделе <a href="../../../part/">Номера запчастей</a></p>
+</div>
+<h2 id="motor_1">Двигатель в сборе</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_1.png" data-desc-position="bottom"><img alt="Images title" loading="lazy" src="../../../images/schema/motor_1.png"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_2.png" data-desc-position="bottom"><img alt="Images title" loading="lazy" src="../../../images/schema/motor_2.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21101</td>
+<td>Двигатель в сборе-суб.</td>
+<td>73BD1-2JW00</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21102</td>
+<td>Двигатель в сборе</td>
+<td>30BD2-2JW00</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_2">Комплект прокладочных колец</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_3.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_3.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20910</td>
+<td>20910-2JW01</td>
+<td>Комплект прокладочных колец-двигатель</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20920</td>
+<td>20920-2JW01</td>
+<td>Комлпект прокладочных колец-двигатель, верхн.</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="20-211b">Блок цилиндров [20-211B]</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_4.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_4.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140FS</td>
+<td>Болт</td>
+<td>11403-08656K</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1170AA</td>
+<td>Болт</td>
+<td>11703-06121</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1430FJ</td>
+<td>Установочный штифт</td>
+<td>14303-10140</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1430JK</td>
+<td>Установочный штифт</td>
+<td>14303-08140</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1433CA</td>
+<td>Втулка</td>
+<td>14331-08090</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1573JL</td>
+<td>Колпачок-уплотнение</td>
+<td>15734-20000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1710AA</td>
+<td>О-Кольцо</td>
+<td>21144-2B001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21110B</td>
+<td>Блок в сборе-суб цилиндр</td>
+<td>10BM3-2JW00<br><em>21110-2JTA2</em></td>
+<td>1</td>
+</tr>
+<tr>
+<td>21114</td>
+<td>Болт</td>
+<td>21114-2JRA0</td>
+<td>10</td>
+</tr>
+<tr>
+<td>21124</td>
+<td>Втулка-ударн.</td>
+<td>21124-2A100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>21133</td>
+<td>Заглушка</td>
+<td>21133-25000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21150</td>
+<td>Форсунка-масл.</td>
+<td>21150-2J000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>21161B</td>
+<td>О-Кольцо</td>
+<td>21143-04010</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21171E</td>
+<td>Водяная рубашка охлаждения двигателя</td>
+<td>21171-2JTA5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21171F</td>
+<td>Водяная рубашка охлаждения двигателя</td>
+<td>21172-2JTA5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21443</td>
+<td>Сальник</td>
+<td>21443-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22124B</td>
+<td>Втулка-ударн.</td>
+<td>21124-2E000</td>
+<td>10</td>
+</tr>
+<tr>
+<td>22127A</td>
+<td>Шпилька</td>
+<td>22127-03000</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_3">Блок двигателя</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_8.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_8.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140EW</td>
+<td>Болт</td>
+<td>22127-2E000</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1140FD</td>
+<td>Болт</td>
+<td>11403-08166K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FL</td>
+<td>Болт</td>
+<td>11403-08383</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FP</td>
+<td>Болт</td>
+<td>11403-08503</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140MA</td>
+<td>Болт</td>
+<td>22126-2E000</td>
+<td>16</td>
+</tr>
+<tr>
+<td>1430JB</td>
+<td>Установочный штифт</td>
+<td>14303-05120</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1430JK</td>
+<td>Установочный штифт</td>
+<td>14303-08140</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1433CA</td>
+<td>Втулка</td>
+<td>14331-08090</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1573JM</td>
+<td>Колпачок-уплотнение</td>
+<td>15734-28000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1601DG</td>
+<td>Шар-сталь</td>
+<td>16011-10000</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1751GI</td>
+<td>Прокладочное кольцо</td>
+<td>17512-22000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22110B</td>
+<td>Вспомогательный узел головки блока-цилиндра</td>
+<td>20BM4-2JW00<br>22110-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22114A</td>
+<td>Направл.-впускной клапан</td>
+<td>22114-2J000</td>
+<td>16</td>
+</tr>
+<tr>
+<td>22124B</td>
+<td>Втулка-ударн.</td>
+<td>22124-33000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>22125A</td>
+<td>Шпилька</td>
+<td>22131-2G000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22127A</td>
+<td>Шпилька</td>
+<td>22127-2M800</td>
+<td>4</td>
+</tr>
+<tr>
+<td>22129</td>
+<td>Заглушка</td>
+<td>22129-2E000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22129A</td>
+<td>Болт</td>
+<td>22129-2M800</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22135</td>
+<td>Трубка гнезда свечи зажигания</td>
+<td>22135-2E000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>22311</td>
+<td>Прокладочное кольцо-головка бл.цилиндр.</td>
+<td>22311-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22321</td>
+<td>Болт</td>
+<td>22321-2JTA0</td>
+<td>10</td>
+</tr>
+<tr>
+<td>22322</td>
+<td>Шайба</td>
+<td>22322-2J000</td>
+<td>10</td>
+</tr>
+<tr>
+<td>22340</td>
+<td>Адаптер топливного насоса</td>
+<td>22340-2J600</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22341D</td>
+<td>Держатель-двигатель, задн.часть</td>
+<td>22342-2JTA0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_4">Головка блока цилиндров</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_9.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_9.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140ES</td>
+<td>Болт</td>
+<td>11403-06286K</td>
+<td>18</td>
+</tr>
+<tr>
+<td>1472AB</td>
+<td>Зажим-шланг</td>
+<td>14720-15006S</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1472AR</td>
+<td>Хомут-шланг</td>
+<td>22410-2JTB0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22410A</td>
+<td>Крышка в сборе-коромысло</td>
+<td>22410-2JTB0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22440A</td>
+<td>Крышка</td>
+<td>22420-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22441</td>
+<td>Прокладочное кольцо-крышка коромысла</td>
+<td>22441-2JHA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22443B</td>
+<td>Уплотнение-масл.</td>
+<td>22443-2JTB0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>22443F</td>
+<td>Уплотнительное кольцо клапанной крышки двигателя</td>
+<td>22444-2J000</td>
+<td>3</td>
+</tr>
+<tr>
+<td>26502</td>
+<td>Набивка-крышка масленки</td>
+<td>26502-22600</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26510</td>
+<td>Колпачок в сборе-масл.</td>
+<td>26510-2M000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26710</td>
+<td>Шланг в сборе-вентиль</td>
+<td>26710-2JTA1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26730C</td>
+<td>Трубка</td>
+<td>26730-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26740</td>
+<td>Клапан</td>
+<td>26740-2M000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29246A</td>
+<td>Болт</td>
+<td>29243-2B400</td>
+<td>3</td>
+</tr>
+<tr>
+<td>31822</td>
+<td>Кронштейн топливного насоса</td>
+<td>22442-2JHA0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_5">Масляная система</h2>
+<details class="info">
+<summary>Схема</summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_5.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_5.png"></a></center><p></p>
+</details>
+<div class="admonition note">
+<p class="admonition-title">Схема ссылается на следующие схемы: <a href="#20-215b">Поддон двигателя и масляный щуп [20-215B]</a> ; <a href="#20-211b">Блок цилиндров [20-211B]</a></p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140AO</td>
+<td>Болт-фланец</td>
+<td>11403-08326K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140DJ</td>
+<td>Болт-фланец</td>
+<td>11403-06166K</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1140FM</td>
+<td>Болт</td>
+<td>11403-08407B</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140FX</td>
+<td>Болт</td>
+<td>21515-2J000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140JF</td>
+<td>Болт-фланец</td>
+<td>11403-08306K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>21324A</td>
+<td>Клапан контроля давления масла</td>
+<td>21324-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21513A</td>
+<td>Прокладочное кольцо-пробка смаз.</td>
+<td>2151323001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21516A</td>
+<td>Болт</td>
+<td>21516-35010</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25460</td>
+<td>Маслоохладитель</td>
+<td>26400-2J001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25624B</td>
+<td>Фиксатор</td>
+<td>21325-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26100</td>
+<td>Насос в сборе-масл.</td>
+<td id="21300-2JTA2">21300-2JTA2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26300</td>
+<td>Масляный фильтр ак</td>
+<td>26300-2JTA2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26311</td>
+<td>Колпачок масляного фильтра</td>
+<td>26315-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26320A</td>
+<td>Комплект обслуж. масляного фильтра</td>
+<td><a href="../../../part/filters/#oilfilter20T">26350-2J001</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td>26331D</td>
+<td>Прокладка масляного фильтра двигателя</td>
+<td>26331-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26332B</td>
+<td>Заглушка</td>
+<td>26332-2J000<br><em>26332-2S000</em></td>
+<td>1</td>
+</tr>
+<tr>
+<td>26347</td>
+<td>Прокладочное кольцо</td>
+<td>26333-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>263A0</td>
+<td>Корпус масялного фильтра в сборе</td>
+<td>263A0-2J601</td>
+<td>1</td>
+</tr>
+<tr>
+<td>94750</td>
+<td>Датчик давления масла</td>
+<td>94750-2M454</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="20-215b">Поддон двигателя и масляный щуп [20-215B]</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_6.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_6.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11403C</td>
+<td>Болт-фланец</td>
+<td>21356-2B000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140AO</td>
+<td>Болт-фланец</td>
+<td>11403-08326K</td>
+<td>17</td>
+</tr>
+<tr>
+<td>1140EJ</td>
+<td>Болт</td>
+<td>11403-06126K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FN</td>
+<td>Болт</td>
+<td>11403-08506K</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1140FX</td>
+<td>Болт</td>
+<td>21515-2J000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140GD</td>
+<td>Болт</td>
+<td>11403-08286K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140HK</td>
+<td>Болт</td>
+<td>21152-2M000</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140JD</td>
+<td>Болт</td>
+<td>11406-10506K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140NA</td>
+<td>Болт</td>
+<td>11406-10756K</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1430JB</td>
+<td>Установочный штифт</td>
+<td>14303-05120</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1433CA</td>
+<td>Втулка</td>
+<td>14331-08090</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21133</td>
+<td>Заглушка</td>
+<td>21133-03000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21187P</td>
+<td>Прокладочное кольцо</td>
+<td>211340-3000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21350F</td>
+<td>Кожух в сборе - цепь ГРМ</td>
+<td>21350-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21357B</td>
+<td>Болт-фланец</td>
+<td>21359-2E000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21414C</td>
+<td>Крышка двигателя</td>
+<td>21414-2J001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21421</td>
+<td>Уплотнение-масл.</td>
+<td>21421-2G1000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21451B</td>
+<td>Прокладочное кольцо-жидк.</td>
+<td>21451-33T00</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21510</td>
+<td>Чашка в сборе-масл.</td>
+<td>21510-2JTA2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21512</td>
+<td>Пробка масляного картера</td>
+<td>21512-27001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21513A</td>
+<td>Прокладочное кольцо - пробка смаз.</td>
+<td>21513-23001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21611B</td>
+<td>Шпилька</td>
+<td>21671-2E120</td>
+<td>2</td>
+</tr>
+<tr>
+<td>26611</td>
+<td>Масляный щуп</td>
+<td>2611-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26612B</td>
+<td>Направл. в сборе - масломер</td>
+<td>26612-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26615</td>
+<td>О-кольцо</td>
+<td>26615-2B000</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_6">Подушки двигателя</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_7.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_7.png"></a></center><p></p>
+</details>
+<div class="admonition note">
+<p class="admonition-title">Схема ссылается на следующие схемы: 60-624 и 60-640</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1124AA</td>
+<td>Болт</td>
+<td>21891-2Z000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140HC</td>
+<td>Болт</td>
+<td>21821-2G536K</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140HT</td>
+<td>Болт</td>
+<td>11404-12256K</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1140JA</td>
+<td>Болт-фланец</td>
+<td>11406-10406K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1339GC</td>
+<td>Гайка</td>
+<td>13396-12007K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>21810A</td>
+<td>Кронштейн-двигатель уст.</td>
+<td>21810-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21825S</td>
+<td>Кронштейн-опора</td>
+<td>21825-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21830</td>
+<td>Крепеж</td>
+<td>21830-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21838C</td>
+<td>Крыло левое</td>
+<td>21838-L1000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21920</td>
+<td>Болт</td>
+<td>21991-1J100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21950R</td>
+<td>Опора двигателя</td>
+<td>21950-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>51759</td>
+<td>Гайка-самоблок. фланец</td>
+<td>51759-F6000</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_7">Коленвал и поршень</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_10.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_10.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140MF</td>
+<td>Болт</td>
+<td>21391-2JTA1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>21020D</td>
+<td>Вкладыш коленвала</td>
+<td>21020-2J000<br><em>21020-2J010</em><br><em>21020-2J020</em><br><em>21020-2J030</em><br><em>21020-2J040</em><br></td>
+<td>3</td>
+</tr>
+<tr>
+<td>21020F</td>
+<td>Комплект подшипников скольжения коленвала</td>
+<td>21020-2J050<br><em>21020-2J060</em><br><em>21020-2J070</em><br><em>21020-2J080</em><br><em>21020-2J090</em><br></td>
+<td>2</td>
+</tr>
+<tr>
+<td>21030C</td>
+<td>Подшипник-упорн.коленвала</td>
+<td>21030-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23040A</td>
+<td>Комплект поршневых колец</td>
+<td>23040-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23060B</td>
+<td>Подшипник-сеодин.шток скольж.</td>
+<td>2306-2J000 <br><em>2306-2J010</em><br><em>2306-2J020</em><br><em>2306-2J030</em><br><em>2306-2J040</em></td>
+<td>4</td>
+</tr>
+<tr>
+<td>23111</td>
+<td>Коленвал</td>
+<td>23111-2JTA2<br><em>23111-2JTB0</em></td>
+<td>1</td>
+</tr>
+<tr>
+<td>2312B</td>
+<td>Шкив коленвала</td>
+<td>23124-2JTD0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23125</td>
+<td>Ключ</td>
+<td>23125-25000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23127B</td>
+<td>Болт-шайба</td>
+<td>23127-2J010</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23211B</td>
+<td>Ведущий диск</td>
+<td>23211-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23226B</td>
+<td>Переходной фланец</td>
+<td>23226-2S000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23300</td>
+<td>Балансирный вал в сборе</td>
+<td>23300-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23311B</td>
+<td>Болт</td>
+<td>23311-2J010</td>
+<td>8</td>
+</tr>
+<tr>
+<td>23410G</td>
+<td>Поршень, палец и стопорное кольцо в сборе</td>
+<td>23041-2JTA0<br><em>23041-2JTB0</em><br><em>23041-2JTC0</em></td>
+<td>4</td>
+</tr>
+<tr>
+<td>23412</td>
+<td>Штифт</td>
+<td>23412-2JTB0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>23414</td>
+<td>Стопорное кольцо КПП</td>
+<td>23413-2C400</td>
+<td>8</td>
+</tr>
+<tr>
+<td>23510</td>
+<td>Шатун в сборе</td>
+<td>23510-2JTA0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>23513</td>
+<td>Болт-соединит. шток</td>
+<td>23513-2J000</td>
+<td>10</td>
+</tr>
+<tr>
+<td>39190A</td>
+<td>Зуб.венец датчика коленвала</td>
+<td>23141-2J001</td>
+<td>1</td>
+</tr>
+<tr>
+<td>39191</td>
+<td>Винт-колесо датчика положения коленвала</td>
+<td>39191-2J200</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_8">ГРМ, гидрокомпенсаторы</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_11.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_11.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1140EN</td>
+<td>Болт</td>
+<td>11403-06203</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140ER</td>
+<td>Болт</td>
+<td>11403-06253</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FE</td>
+<td>Болт</td>
+<td>11403-08186K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FY</td>
+<td>Болт</td>
+<td>11403-06146K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22211</td>
+<td>Впускной клапан двигателя</td>
+<td>22211-2J000</td>
+<td>8</td>
+</tr>
+<tr>
+<td>22212</td>
+<td>Выпускной клапан двигателя</td>
+<td>22212-2JTA0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>22221</td>
+<td>Пружина клапана</td>
+<td>22221-2J000</td>
+<td>8</td>
+</tr>
+<tr>
+<td>22221P</td>
+<td>Пружина клапана</td>
+<td>22221-2JTA0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>22222</td>
+<td>Тарелка клапанной пружины</td>
+<td>22222-2J100</td>
+<td>16</td>
+</tr>
+<tr>
+<td>22224B</td>
+<td>Маслосъемный колпачок</td>
+<td>22224-2G000</td>
+<td>16</td>
+</tr>
+<tr>
+<td>22231</td>
+<td>Гидрокомпенсатор</td>
+<td>24610-2M000<br><em>24610-2S001</em></td>
+<td>16</td>
+</tr>
+<tr>
+<td>22235</td>
+<td>Замок-пруж.клапана</td>
+<td>22223-2A800</td>
+<td>32</td>
+</tr>
+<tr>
+<td>23120</td>
+<td>Звездочка коленвала</td>
+<td>23121-2JTB0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24100C</td>
+<td>Коленвал-впуск</td>
+<td>24100-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24200A</td>
+<td>Коленвал-выхлопн.</td>
+<td>24200-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24321</td>
+<td>Цепь-синхр.</td>
+<td>24321-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24348</td>
+<td>Упорное кольцо коленвала</td>
+<td>24348-25001</td>
+<td>2</td>
+</tr>
+<tr>
+<td>24349</td>
+<td>Болт</td>
+<td>23439-2E000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24350</td>
+<td>ГРМНР-впуск</td>
+<td>24350-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24354A</td>
+<td>Соленоидный клапан</td>
+<td>24354-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24354A</td>
+<td>Соленоидный клапан</td>
+<td>24374-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24355H</td>
+<td>Болт распредвала</td>
+<td>24355-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24355I</td>
+<td>Болт</td>
+<td>24375-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24370B</td>
+<td>Электрическая система газораспределения с бесступенчатым регулированием-выпуск</td>
+<td>24370-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24410</td>
+<td>Натяжитель ремня ГРМ</td>
+<td>24410-2JTA2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24420</td>
+<td>Направляющая цепи привода ГРМ</td>
+<td>24420-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24431</td>
+<td>Направляющая</td>
+<td>24430-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24440A</td>
+<td>Направляющая распред.вала для цепи привода ГРМ</td>
+<td>24440-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24470</td>
+<td>Гидравлический натяжитель в сборе</td>
+<td>24470-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24471</td>
+<td>Направл.-масляный насос</td>
+<td>24471-2JTA1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25641</td>
+<td>Рычаг-повортн.</td>
+<td>24551-2J000<br><em>24551-2J100</em></td>
+<td>16</td>
+</tr>
+<tr>
+<td>26174P</td>
+<td>Цепь-масляный насос</td>
+<td>24322-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27242</td>
+<td>Болт</td>
+<td>24362-2E700</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_9">Ремень (навесное оборудование)</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_12.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_12.png"></a></center><p></p>
+</details>
+<div class="admonition info">
+<p class="admonition-title">Поликриновый ремень 25212-2JTB0 - 6PK 1583</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1123GG</td>
+<td>Болт</td>
+<td>11233-06146K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140ET</td>
+<td>Болт</td>
+<td>11403-06306K</td>
+<td>5</td>
+</tr>
+<tr>
+<td>25100</td>
+<td>Насос в сборе - охлаждающая жидкость</td>
+<td>25100-2J100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25124</td>
+<td>Прокладочное кольцо - водяной насос</td>
+<td>25124-2J100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25212A</td>
+<td>Поликлиновой ремень</td>
+<td>25212-2JTB0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25221</td>
+<td>Шкив насоса охл.жидкости</td>
+<td>25221-2JTA1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25281</td>
+<td>Натяжитель ремня ГРМ</td>
+<td>25281-2J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25287I</td>
+<td>Шкив натяжителя ремня ГРМ</td>
+<td>25287-2E300</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_10">Радиаторы и вентилятор охлаждения</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_13.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_13.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1125AD</td>
+<td>Болт</td>
+<td>11254-06206B</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1125DB</td>
+<td>Болт</td>
+<td>11251-06206B</td>
+<td>4</td>
+</tr>
+<tr>
+<td>13396</td>
+<td>Гайка-фланец</td>
+<td>13396-06007K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1463AA</td>
+<td>Зажим</td>
+<td>14206-08250B</td>
+<td>1</td>
+</tr>
+<tr>
+<td>14722B</td>
+<td>Хомут-шланг</td>
+<td>14722-43006S</td>
+<td>4</td>
+</tr>
+<tr>
+<td>25310</td>
+<td>Радиатор в сборе</td>
+<td>25310-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25318</td>
+<td>Пробка сливного отверстия радиатора</td>
+<td>25318-1D100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25333</td>
+<td>Крепеж</td>
+<td>25333-D3000<br><em>25333-R3000</em></td>
+<td>1</td>
+</tr>
+<tr>
+<td>25335</td>
+<td>Внутренний крепеж</td>
+<td>25335-2P000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25336</td>
+<td>Внутренний крепеж</td>
+<td>25336-C5000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25380</td>
+<td>Вентилятор</td>
+<td>25380-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25410L</td>
+<td>Шланг радиатора в сборе, нижн</td>
+<td>25415-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25414H</td>
+<td>Шланг радиатора в сборе, верхн</td>
+<td>25414-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25430</td>
+<td>Бак и шланг</td>
+<td>25430-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25441A</td>
+<td>Колпачок-резервуар радиатора</td>
+<td>25441-26100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25450H</td>
+<td>Шланг-вода</td>
+<td>25450-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25485F</td>
+<td>Коннектор</td>
+<td>25485-L1100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25485J</td>
+<td>Коннектор</td>
+<td>25485-C1500</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29135A</td>
+<td>Топливная системы с пониженной токсичностью выхлопа</td>
+<td>29135-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29150</td>
+<td>Спойлер</td>
+<td>29150-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>97606</td>
+<td>Конденсатор в сборе</td>
+<td>97606-N9010</td>
+<td>1</td>
+</tr>
+<tr>
+<td>97761P</td>
+<td>Трубка и труба в сборе</td>
+<td>97761-R4000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>97852С</td>
+<td>Колпачок-осушитель</td>
+<td>97852-1J000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>97853A</td>
+<td>Осушитель в сборе-ресивер-осушитель</td>
+<td>97853-2F100</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_11">Термостат</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_14.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_14.png"></a></center><p></p>
+</details>
+<details class="info">
+<summary>Фотографии термостата</summary>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/25600-2JTA0_1.jpg" data-desc-position="bottom"><img allign="left" alt="Images title" loading="lazy," src="../../../images/25600-2JTA0_1.jpg"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/25600-2JTA0_2.jpg" data-desc-position="bottom"><img allign="right" alt="Images title" loading="lazy," src="../../../images/25600-2JTA0_2.jpg"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/25600-2JTA0_3.jpg" data-desc-position="bottom"><img allign="left" alt="Images title" loading="lazy," src="../../../images/25600-2JTA0_3.jpg"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/25600-2JTA0_4.jpg" data-desc-position="bottom"><img allign="right" alt="Images title" loading="lazy," src="../../../images/25600-2JTA0_4.jpg"></a></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1129DA</td>
+<td>Болт</td>
+<td>25456-2E100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140DJ</td>
+<td>Болт-фланец</td>
+<td>11403-06166K</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140FF</td>
+<td>Болт</td>
+<td>11403-08206K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1338BB</td>
+<td>Гайка</td>
+<td>13386-08007K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1472AH</td>
+<td>Зажим-шланг</td>
+<td>25482-13006</td>
+<td>2</td>
+</tr>
+<tr>
+<td>21631</td>
+<td>Опора</td>
+<td>25457-2E801</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25461C</td>
+<td>Трубка</td>
+<td>25460-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25473Q</td>
+<td>Патрубок</td>
+<td>25473-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25480G</td>
+<td>Шланг системы охлаждения</td>
+<td>25480-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25482</td>
+<td>Зажим-шланг</td>
+<td>25482-18006</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25482C</td>
+<td>Зажим-шланг</td>
+<td>25482-22066</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25482C</td>
+<td>Зажим-шланг</td>
+<td>25482-24066</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25482C</td>
+<td>Зажим-шланг</td>
+<td>25482-26066</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25485M</td>
+<td>Прокладка</td>
+<td>25485-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25490F</td>
+<td>Трубка системы охлаждения</td>
+<td>25495-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25600F</td>
+<td>Термостатический регулируемый клапан системы охлаждения</td>
+<td>25600-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25612E</td>
+<td>Патрубок</td>
+<td>25481-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25615G</td>
+<td>Прокладочное кольцо-корпус термостата</td>
+<td>25623-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25620E</td>
+<td>Фитинг шланга</td>
+<td>25630-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25633C</td>
+<td>Прокладочное кольцо-корпус термостата</td>
+<td>25630-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28161</td>
+<td>Кольцо</td>
+<td>25457-2E802</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_12">Воздушный фильтр и его корпус</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_15.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_15.png"></a></center><p></p>
+</details>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1125DB</td>
+<td>Болт</td>
+<td>11251-06206B</td>
+<td>4</td>
+</tr>
+<tr>
+<td>11403B</td>
+<td>Болт-фланец</td>
+<td>11403-06126B</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1463AA</td>
+<td>Зажим</td>
+<td>14206-08250B</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1471CM</td>
+<td>Хомут-шланг</td>
+<td>14716-07000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1471UD</td>
+<td>Хомут-шланг</td>
+<td>14716-08700</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1471UD</td>
+<td>Хомут-шланг</td>
+<td>14716-09000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1799GA</td>
+<td>Ремень</td>
+<td>17993-35000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28110</td>
+<td>Очист.в сборе-возд.</td>
+<td>28110-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28111</td>
+<td>Крышка-очиститель воздуха</td>
+<td>28111-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28112</td>
+<td>Корпус воздушного фильтра</td>
+<td>28112-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28113</td>
+<td>Воздушный фильтр двигателя</td>
+<td><a href="../../../part/filters/#airfilter">28113-R4200</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td>28130</td>
+<td>Шланг</td>
+<td>28130-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28139C</td>
+<td>Патрубок забора воздуха</td>
+<td>28139-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28160</td>
+<td>Опора</td>
+<td>28160-3R030</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28160B</td>
+<td>Опора</td>
+<td>28160-N8400</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28161</td>
+<td>Кольцо</td>
+<td>28161-F0000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28164</td>
+<td>Датчик расхода воздуха</td>
+<td>28164-2M400</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28165B</td>
+<td>О-Кольцо</td>
+<td>28165-27800</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28171</td>
+<td>Болт</td>
+<td>28171-2H000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28174H</td>
+<td>Хомут-пластина</td>
+<td>28174-02400</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28186F</td>
+<td>Арматура регулирующая:клапан системы очистки воздуха для двигателя</td>
+<td>28186-R4200</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28210</td>
+<td>Воздушная трубка</td>
+<td>28210-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28211G</td>
+<td>Воздуховод</td>
+<td>28240-N8400</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28212F</td>
+<td>Трубка</td>
+<td>28212-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28213A</td>
+<td>Воздухозаборник воздушного фильтра двигателя</td>
+<td>28213-R4100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28374</td>
+<td>Подкладка</td>
+<td>28162-N8400</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_13">Интеркулер</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_16.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_16.png"></a></center><p></p>
+</details>
+<div class="admonition note">
+<p class="admonition-title">Схема ссылается на следующие схемы: 28-283B, 28-285B, 60-640</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1125AD</td>
+<td>Болт</td>
+<td>11254-06206B</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1125GA</td>
+<td>Болт в сборе с шайбой</td>
+<td>11254-06306B</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140DJ</td>
+<td>Болт-фланец</td>
+<td>11403-06166K</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140EM</td>
+<td>Болт</td>
+<td>11403-06186K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14720</td>
+<td>Зажим-шланг</td>
+<td>14720-27006S</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25335E</td>
+<td>Подушка верхней опоры интеркулера</td>
+<td>25335-2F650</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25336</td>
+<td>Внутренний крепеж</td>
+<td>25336-2F650</td>
+<td>2</td>
+</tr>
+<tr>
+<td>26321A</td>
+<td>Заслонка</td>
+<td>28234-2CTA6</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28170C</td>
+<td>Гайка M10</td>
+<td>28220-2JTE0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28182</td>
+<td>Хомут-шланг</td>
+<td>28292-2F070</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28190C</td>
+<td>Радиатор в сборе</td>
+<td>28270-2JTE0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28214</td>
+<td>Кольцо</td>
+<td>28254-2F000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28214</td>
+<td>Кольцо</td>
+<td>28291-2JTA02</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28215A</td>
+<td>Опора</td>
+<td>28257-2M100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>28215A</td>
+<td>Опора</td>
+<td>28291-2JTA01</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28259A</td>
+<td>Воздуховод системы вентиляции</td>
+<td>28259-2M401</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28262B</td>
+<td>Шланг В</td>
+<td>28238-2JTB0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28265A</td>
+<td>Патрубок интеркулера</td>
+<td>28210-2JTE0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28272E</td>
+<td>Воздуховод</td>
+<td>28277-2JTE0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28274F</td>
+<td>Шланг</td>
+<td>28274-2JTC0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28292A</td>
+<td>Хомут-шланг</td>
+<td>28292-2F065</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28292G</td>
+<td>Зажим-шланг</td>
+<td>28292-2CTB0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>47188</td>
+<td>Болт</td>
+<td>28297-2JTA0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motor_14">Впуск и выпуск</h2>
+<details class="info">
+<summary>Схема </summary>
+<p></p><center><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/schema/motor_17.png" data-desc-position="bottom"><img alt="Image title" loading="lazy" src="../../../images/schema/motor_17.png"></a></center><p></p>
+</details>
+<div class="admonition note">
+<p class="admonition-title">Схема ссылается на следующие схемы: 28-285B</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Номер на схеме</th>
+<th>Наименование</th>
+<th>Артикул</th>
+<th>Кол-во</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1123GE</td>
+<td>Болт</td>
+<td>11233-06556K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1140AO</td>
+<td>Болт</td>
+<td>11403-08326K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1140EJ</td>
+<td>Болт</td>
+<td>11403-06126K</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1140EX</td>
+<td>Болт</td>
+<td>11403-06456K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1140EZ</td>
+<td>Болт</td>
+<td>11403-06606K</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1140FE</td>
+<td>Болт</td>
+<td>11403-08186K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1140FX</td>
+<td>Болт</td>
+<td>11403-08606K</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140FZ</td>
+<td>Болт</td>
+<td>11403-06106K</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1339GA</td>
+<td>Гайка</td>
+<td>11396-08007K</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14720</td>
+<td>Зажим-шланг</td>
+<td>14720-07006S</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1472AH</td>
+<td>Зажим-шланг</td>
+<td>14720-17006S</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1472AK</td>
+<td>Зажим-шланг</td>
+<td>14720-13806S</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1472AN</td>
+<td>Хомут-шланг</td>
+<td>14720-30006S</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1472AV</td>
+<td>Зажим-шланг</td>
+<td>14720-13006S</td>
+<td>3</td>
+</tr>
+<tr>
+<td>20362</td>
+<td>Шланг вакуумный</td>
+<td>28328-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21140</td>
+<td>Клапан</td>
+<td>28327-2JTA0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22412P</td>
+<td>Винт</td>
+<td>22451-03020</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25482C</td>
+<td>Зажим-шланг</td>
+<td>25482-22006</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.indexes"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u0431\u0443\u0444\u0435\u0440", "clipboard.copy": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u0443\u0444\u0435\u0440", "search.result.more.one": "\u0415\u0449\u0451 1 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.more.other": "\u0415\u0449\u0451 # \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.none": "\u0421\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e", "search.result.one": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e 1 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435", "search.result.other": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439: #", "search.result.placeholder": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430", "search.result.term.missing": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442", "select.version": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0432\u0435\u0440\u0441\u0438\u044e"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../../js/open_in_new_tab.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>
