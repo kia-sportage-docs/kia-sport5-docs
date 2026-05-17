@@ -3,7 +3,7 @@
 - [График ТО](to.md)
 - [Запчасти для ТО и ремонта](../part/index.md) 
 - [Информация по техническим жидкостям](oil.md)
-- Инструкуции:
+- Инструкции:
     - [Адаптация педали газа](manuals/gas-adaptation.md)
     - [Инициализация (калибровка) механизма открытия багажника](manuals/5-th_door_calibraton.md)
     - [Инициализация (калибровка) люка и шторки панорамы](manuals/hatch_init.md)
@@ -17,8 +17,8 @@
     - [Схема блока IBU](manuals/electrical_circuits/ibu.md)
     - [Распиновка блока ICU](manuals/electrical_circuits/icu.md)
     - [Описание предохранителей](manuals/electrical_circuits/fuse.md)
-- [Разрмеры шин и дисков](manuals/wheels.md)
+- [Размеры шин и дисков](manuals/wheels.md)
 - [Коды цвета краски](manuals/colors.md)
-- [Ресрус с инструкциями из TIS](https://kiagds.ru)
+- [Ресурс с инструкциями из TIS](https://kiagds.ru)
 - [Коды ошибок (на Китайском)](https://dongcheyun.com/p/4572) **Требуется авторизация и оплата, сервис не бесплатный!!!**
 - [Схемы с артикулами для 2.0Т Flagship](https://t.me/Kia_Sportage_5_Turbo/36156/148836)

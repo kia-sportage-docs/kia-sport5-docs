@@ -16,7 +16,7 @@
 - [Доработка и тюнинг](improvement/index.md)
 - [Рекомендации для новых авто](expluatation/new_car.md)
 - [Русификация](translate.md)
-- Инструкциии по эксплуатации:
+- Инструкции по эксплуатации:
 
       - [Официальные инструкции](expluatation/manuals.md)
       - [Назначение кнопок в салоне](expluatation/buttons.md)
@@ -25,7 +25,7 @@
       - [Электросхемы](service/manuals/electrical_circuits/index.md)
       - [Инструкции по обслуживанию и устранению дефектов/недостатков](service/index.md)
 
-- [Ресрус с инструкциями из TIS](https://kiagds.ru)
+- [Ресурс с инструкциями из TIS](https://kiagds.ru)
 
 ## Исходники ресурса
 
