@@ -2,3 +2,4 @@ mkdocs-material
 mkdocs[i18n]
 mkdocs-glightbox
 mkdocs-open-in-new-tab
+mkdocs-redirects

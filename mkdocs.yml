@@ -20,15 +20,20 @@ plugins:
   - glightbox
   - search
   - open-in-new-tab
+  - redirects:
+      redirect_maps:
+        'expluatation/new_car.md': 'ownership/new_car.md'
+        'expluatation/manuals.md': 'ownership/manuals.md'
+        'expluatation/buttons.md': 'ownership/buttons.md'
 
 nav:
-  - 'О ресурсе': index.md
+  - 'Главная': index.md
   - 'Выбор и сравнение': versions.md
-  - 'Известные проблемы' : issue.md
+  - 'Известные проблемы': issue.md
   - 'Эксплуатация':
-    - 'Новая машина': expluatation/new_car.md
-    - 'Инструкции по эксплуатации': expluatation/manuals.md 
-    - 'Описание кнопок в салоне': expluatation/buttons.md
+    - 'После покупки': ownership/new_car.md
+    - 'Инструкции по эксплуатации': ownership/manuals.md
+    - 'Описание кнопок в салоне': ownership/buttons.md
     - 'Аксессуары': part/accessories.md
   - 'Доработки и тюнинг':
     - improvement/index.md
@@ -38,7 +43,7 @@ nav:
     - 'Отключение функции старт/стоп': improvement/start-stop-off.md
     - 'Установка видеорегистратора': improvement/video-register.md
   - 'ТО и ремонты':
-    - service/index.md
+    - 'Обзор раздела': service/index.md
     - 'График ТО': service/to.md
     - 'Технические жидкости': service/oil.md
     - 'Инструкции по ремонту и обслуживанию':
@@ -58,8 +63,8 @@ nav:
       - 'Установка радиатора АКПП': service/manuals/AT-cooling.md
       - 'Замена резинок дворников': service/manuals/smena_rezinok.md
   - 'Русификация': translate.md
-  - 'Номера запчастей':
-    - part/index.md
+  - 'Запчасти и расходники':
+    - 'Обзор раздела': part/index.md
     - 'Фильтры': part/filters.md
     - 'Мотор': part/motor.md
     - 'Топливная система': part/fuel.md
@@ -70,8 +75,8 @@ nav:
     - 'Прочее': part/other.md
     - 'Аксессуары': part/accessories.md
     - 'Официальный тюнинг и аксессуары': part/official_tuning.md
-  - 'Сигнализации':
-    - car_alarm/index.md
+  - 'Сигнализации и защита':
+    - 'Обзор раздела': car_alarm/index.md
     - 'Pandora':
       - car_alarm/pandora/index.md
       - 'Общая информация': car_alarm/pandora/first_info.md
@@ -80,5 +85,5 @@ nav:
       - car_alarm/starline/index.md
       - 'Общая информация': car_alarm/starline/first_info.md
     - 'Прочие средства безопасности': car_alarm/other.md
-  - 'Схемы из TIS': schemas/index.md
+  - 'TIS': 'https://kia-sportage-docs.github.io/tis/'
   - 'FAQ': faq.md

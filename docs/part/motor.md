@@ -48,7 +48,7 @@
 ### 2.0T
 | Производитель | Артикул | Комментарий |
 |---|---|---|
-| Kia/Hyundai| 21300-2JTA2|[Источник - TIS](../schemas/2_0_flagship_2024/motor.md#21300-2JTA2)
+| Kia/Hyundai| 21300-2JTA2|[Источник - TIS](https://kia-sportage-docs.github.io/tis/)
 | Kia/Hyundai | 21300-2JTA1 | [Источник](https://t.me/Kia_Sportage_5_Turbo/36156/116653) |
 
 
