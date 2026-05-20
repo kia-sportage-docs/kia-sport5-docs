@@ -325,10 +325,10 @@
     <center>![Image title](../../images/schema/motor_14.png){ loading=lazy }</center>
 
 ??? info "Фотографии термостата"
-    ![Images title](../../images/25600-2JTA0_1.jpg){ loading=lazy, allign=left }
-    ![Images title](../../images/25600-2JTA0_2.jpg){ loading=lazy, allign=right}
-    ![Images title](../../images/25600-2JTA0_3.jpg){ loading=lazy, allign=left}
-    ![Images title](../../images/25600-2JTA0_4.jpg){ loading=lazy, allign=right}
+    ![Images title](../../images/25600-2JTA0_1.jpg){ loading=lazy, align=left }
+    ![Images title](../../images/25600-2JTA0_2.jpg){ loading=lazy, align=right}
+    ![Images title](../../images/25600-2JTA0_3.jpg){ loading=lazy, align=left}
+    ![Images title](../../images/25600-2JTA0_4.jpg){ loading=lazy, align=right}
 
 | Номер на схеме | Наименование | Артикул | Кол-во |
 |---|---|---|---|

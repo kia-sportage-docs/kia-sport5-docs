@@ -24,27 +24,27 @@
 
     [Источник информации](https://t.me/Kia_Sportage_5_Turbo/36156/142082)
 
-    ![Image title](images/glass_panel_1.jpg){ loafing=lazy}
+    ![Image title](images/glass_panel_1.jpg){ loading=lazy}
     /// caption
     Пузырь
     ///
     
-    ![Image title](images/glass_panel_3.jpg){ loafing=lazy}
+    ![Image title](images/glass_panel_3.jpg){ loading=lazy}
     /// caption
     Пузырь и поврежденный шлейф
     ///
     
-    ![Image title](images/glass_panel_2.jpg){ loafing=lazy}
+    ![Image title](images/glass_panel_2.jpg){ loading=lazy}
     /// caption
     Остальные сенсоры без пузыря
     ///
     
-    ![Image title](images/glass_panel_4.jpg){ loafing=lazy}
+    ![Image title](images/glass_panel_4.jpg){ loading=lazy}
     /// caption
     Разобранная панель
     ///
 
-    ![Image title](images/glass_panel_5.jpg){ loafing=lazy}
+    ![Image title](images/glass_panel_5.jpg){ loading=lazy}
     /// caption
     Разобранная панель
     ///

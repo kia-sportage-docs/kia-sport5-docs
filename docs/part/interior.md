@@ -50,32 +50,32 @@
 | Блок управления стеклоподъёмниками |  93571-R4400 |
 
 ??? info "Фото"
-    ![Image title](../images/82315-L0000.jpg){ loafing=lazy}
+    ![Image title](../images/82315-L0000.jpg){ loading=lazy}
     /// caption
     Фиксатор (пистон) обшивки дверей - 82315-L0000
     ///
     
-    ![Image title](../images/82715-R400.jpg){ loafing=lazy}
+    ![Image title](../images/82715-R400.jpg){ loading=lazy}
     /// caption
     Заглушка на болты в обшивке передних дверей - 82715-R400
     ///
 
-    ![Image title](../images/82331-R4030.jpg){ loafing=lazy}
+    ![Image title](../images/82331-R4030.jpg){ loading=lazy}
     /// caption
     Пластиковая панель с ручкой и регулировкой сидений на передней левой двери - 82331-R4030
     ///
 
-    ![Image title](../images/93250-R4000.jpg){ loafing=lazy}
+    ![Image title](../images/93250-R4000.jpg){ loading=lazy}
     /// caption
     Блок кнопок управления сидениями - 93250-R4000
     ///    
 
-    ![Image title](../images/82610-R4010.jpg){ loafing=lazy}
+    ![Image title](../images/82610-R4010.jpg){ loading=lazy}
     /// caption
     Ручка левой передней двери салона - 82610-R4010
     ///    
 
-    ![Image title](../images/93571-R4400.jpg){ loafing=lazy}
+    ![Image title](../images/93571-R4400.jpg){ loading=lazy}
     /// caption
     Блок управления стеклоподъёмниками - 93571-R4400
     ///        
